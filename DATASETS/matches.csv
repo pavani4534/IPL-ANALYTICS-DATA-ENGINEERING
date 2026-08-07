@@ -1,0 +1,251 @@
+match_id,season,match_date,venue,team1,team2,winner,toss_winner
+M001,2026,20-03-2026,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad
+M002,2026,21-03-2026,Narendra Modi Stadium,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Gujarat Titans
+M003,2026,22-03-2026,Ekana Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Delhi Capitals
+M004,2026,23-03-2026,Sawai Mansingh Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians
+M005,2026,24-03-2026,Ekana Stadium,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders
+M006,2026,25-03-2026,Wankhede Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru
+M007,2026,26-03-2026,Sawai Mansingh Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M008,2026,27-03-2026,M. A. Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders
+M009,2026,28-03-2026,M. A. Chidambaram Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals
+M010,2026,29-03-2026,Rajiv Gandhi Intl Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians
+M011,2026,30-03-2026,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad
+M012,2026,31-03-2026,PCA Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad
+M013,2026,01-04-2026,M. A. Chidambaram Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,Punjab Kings
+M014,2026,02-04-2026,Eden Gardens,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians
+M015,2026,03-04-2026,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans
+M016,2026,04-04-2026,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M017,2026,05-04-2026,Ekana Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M018,2026,06-04-2026,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders
+M019,2026,07-04-2026,Eden Gardens,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Chennai Super Kings
+M020,2026,08-04-2026,Wankhede Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,Gujarat Titans
+M021,2026,09-04-2026,Wankhede Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals
+M022,2026,10-04-2026,Arun Jaitley Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Royal Challengers Bengaluru
+M023,2026,11-04-2026,Sawai Mansingh Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M024,2026,12-04-2026,Sawai Mansingh Stadium,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Gujarat Titans
+M025,2026,13-04-2026,Rajiv Gandhi Intl Stadium,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru
+M026,2026,14-04-2026,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals
+M027,2026,15-04-2026,Sawai Mansingh Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Chennai Super Kings
+M028,2026,16-04-2026,M. A. Chidambaram Stadium,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants
+M029,2026,17-04-2026,Sawai Mansingh Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Chennai Super Kings
+M030,2026,18-04-2026,Narendra Modi Stadium,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants
+M031,2026,19-04-2026,Wankhede Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals
+M032,2026,20-04-2026,PCA Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants
+M033,2026,21-04-2026,Eden Gardens,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lucknow Super Giants
+M034,2026,22-04-2026,Sawai Mansingh Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals
+M035,2026,23-04-2026,Sawai Mansingh Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings
+M036,2026,24-04-2026,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders
+M037,2026,25-04-2026,Arun Jaitley Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M038,2026,26-04-2026,Eden Gardens,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad
+M039,2026,27-04-2026,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians
+M040,2026,28-04-2026,Sawai Mansingh Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,Punjab Kings
+M041,2026,29-04-2026,Eden Gardens,Delhi Capitals,Chennai Super Kings,Invalid Team,Delhi Capitals
+M042,2026,30-04-2026,Arun Jaitley Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Punjab Kings
+M043,2026,01-05-2026,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad
+M044,2026,02-05-2026,PCA Stadium,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants
+M045,2026,03-05-2026,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians
+M046,2026,04-05-2026,M. A. Chidambaram Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants
+M047,2026,05-05-2026,Narendra Modi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad
+M048,2026,06-05-2026,Sawai Mansingh Stadium,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Gujarat Titans
+M049,2026,07-05-2026,Narendra Modi Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders
+M050,2026,08-05-2026,Narendra Modi Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians
+M051,2026,09-05-2026,M. A. Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians
+M052,2026,10-05-2026,PCA Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,Rajasthan Royals
+M053,2026,11-05-2026,Ekana Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M054,2026,12-05-2026,Narendra Modi Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals
+M055,2026,13-05-2026,Arun Jaitley Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians
+M056,2026,14-05-2026,M. A. Chidambaram Stadium,Gujarat Titans,Mumbai Indians,Gujarat Titans,Gujarat Titans
+M057,2026,15-05-2026,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals
+M058,2026,16-05-2026,Sawai Mansingh Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad
+M059,2026,17-05-2026,Eden Gardens,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings
+M060,2026,18-05-2026,Narendra Modi Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals
+M061,2026,19-05-2026,M Chinnaswamy Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings
+M062,2026,20-05-2026,Ekana Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad
+M063,2026,21-05-2026,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad
+M064,2026,22-05-2026,Wankhede Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals
+M065,2026,23-05-2026,Ekana Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians
+M066,2026,24-05-2026,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad
+M067,2026,25-05-2026,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders
+M068,2026,26-05-2026,Narendra Modi Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals
+M069,2026,27-05-2026,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M070,2026,28-05-2026,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad
+M071,2026,29-05-2026,M Chinnaswamy Stadium,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Gujarat Titans
+M072,2026,30-05-2026,M. A. Chidambaram Stadium,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians
+M073,2026,31-05-2026,Wankhede Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals
+M074,2026,01-06-2026,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings
+M075,2026,02-06-2026,Narendra Modi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad
+M076,2026,03-06-2026,M. A. Chidambaram Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Delhi Capitals
+M077,2026,04-06-2026,Narendra Modi Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M078,2026,05-06-2026,M. A. Chidambaram Stadium,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants
+M079,2026,06-06-2026,Wankhede Stadium,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Chennai Super Kings
+M080,2026,07-06-2026,Narendra Modi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M081,2026,08-06-2026,Wankhede Stadium,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Gujarat Titans
+M082,2026,09-06-2026,Arun Jaitley Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Royal Challengers Bengaluru
+M083,2026,10-06-2026,Wankhede Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals
+M084,2026,11-06-2026,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians
+M085,2026,12-06-2026,M Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Punjab Kings
+M086,2026,13-06-2026,Arun Jaitley Stadium,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings
+M087,2026,14-06-2026,Eden Gardens,Gujarat Titans,Mumbai Indians,Gujarat Titans,Gujarat Titans
+M088,2026,15-06-2026,Rajiv Gandhi Intl Stadium,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M089,2026,16-06-2026,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders
+M090,2026,17-06-2026,Narendra Modi Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,Mumbai Indians
+M091,2026,18-06-2026,PCA Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,Delhi Capitals
+M092,2026,19-06-2026,Eden Gardens,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M093,2026,20-06-2026,PCA Stadium,Gujarat Titans,Punjab Kings,Punjab Kings,Gujarat Titans
+M094,2026,21-06-2026,Ekana Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians
+M095,2026,22-06-2026,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru
+M096,2026,23-06-2026,M. A. Chidambaram Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders
+M097,2026,24-06-2026,Eden Gardens,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans
+M098,2026,25-06-2026,Eden Gardens,Punjab Kings,Rajasthan Royals,Punjab Kings,Punjab Kings
+M099,2026,26-06-2026,Rajiv Gandhi Intl Stadium,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians
+M100,2026,27-06-2026,PCA Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians
+M101,2026,28-06-2026,PCA Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians
+M102,2026,29-06-2026,Ekana Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,Punjab Kings
+M103,2026,30-06-2026,Sawai Mansingh Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Punjab Kings
+M104,2026,01-07-2026,Eden Gardens,Punjab Kings,Mumbai Indians,Mumbai Indians,Punjab Kings
+M105,2026,02-07-2026,Wankhede Stadium,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants
+M106,2026,03-07-2026,Arun Jaitley Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings
+M107,2026,04-07-2026,Wankhede Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals
+M108,2026,05-07-2026,Rajiv Gandhi Intl Stadium,Delhi Capitals,Gujarat Titans,Delhi Capitals,Delhi Capitals
+M109,2026,06-07-2026,Ekana Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians
+M110,2026,07-07-2026,Wankhede Stadium,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Lucknow Super Giants
+M111,2026,08-07-2026,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,Rajasthan Royals
+M112,2026,09-07-2026,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad
+M113,2026,10-07-2026,M. A. Chidambaram Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants
+M114,2026,11-07-2026,Sawai Mansingh Stadium,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders
+M115,2026,12-07-2026,PCA Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders
+M116,2026,13-07-2026,M. A. Chidambaram Stadium,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Gujarat Titans
+M117,2026,14-07-2026,M. A. Chidambaram Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Gujarat Titans
+M118,2026,15-07-2026,Wankhede Stadium,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Rajasthan Royals
+M119,2026,16-07-2026,Arun Jaitley Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants
+M120,2026,17-07-2026,M Chinnaswamy Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,Punjab Kings
+M121,2026,18-07-2026,Narendra Modi Stadium,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Gujarat Titans
+M122,2026,19-07-2026,Sawai Mansingh Stadium,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Sunrisers Hyderabad
+M123,2026,20-07-2026,M. A. Chidambaram Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals
+M124,2026,21-07-2026,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Delhi Capitals
+M125,2026,22-07-2026,Arun Jaitley Stadium,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings
+M126,2026,23-07-2026,Arun Jaitley Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru
+M127,2026,24-07-2026,Narendra Modi Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Kolkata Knight Riders
+M128,2026,25-07-2026,Rajiv Gandhi Intl Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M129,2026,26-07-2026,PCA Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad
+M130,2026,27-07-2026,Sawai Mansingh Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants
+M131,2026,28-07-2026,Arun Jaitley Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad
+M132,2026,29-07-2026,PCA Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings
+M133,2026,30-07-2026,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad
+M134,2026,31-07-2026,Ekana Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders
+M135,2026,01-08-2026,Narendra Modi Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,Rajasthan Royals
+M136,2026,02-08-2026,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians
+M137,2026,03-08-2026,Ekana Stadium,Gujarat Titans,Delhi Capitals,Gujarat Titans,Gujarat Titans
+M138,2026,04-08-2026,Wankhede Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M139,2026,05-08-2026,Sawai Mansingh Stadium,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans
+M140,2026,06-08-2026,Eden Gardens,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals
+M141,2026,07-08-2026,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings
+M142,2026,08-08-2026,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru
+M143,2026,09-08-2026,Ekana Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,Punjab Kings
+M144,2026,10-08-2026,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians
+M145,2026,11-08-2026,Eden Gardens,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad
+M146,2026,12-08-2026,Sawai Mansingh Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants
+M147,2026,13-08-2026,M. A. Chidambaram Stadium,Gujarat Titans,Delhi Capitals,Gujarat Titans,Gujarat Titans
+M148,2026,14-08-2026,M. A. Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings
+M149,2026,15-08-2026,Wankhede Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants
+M150,2026,16-08-2026,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad
+M151,2026,17-08-2026,M. A. Chidambaram Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders
+M152,2026,18-08-2026,M Chinnaswamy Stadium,Gujarat Titans,Delhi Capitals,Gujarat Titans,Gujarat Titans
+M153,2026,19-08-2026,Arun Jaitley Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians
+M154,2026,20-08-2026,Rajiv Gandhi Intl Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals
+M155,2026,21-08-2026,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad
+M156,2026,22-08-2026,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M157,2026,23-08-2026,Arun Jaitley Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants
+M158,2026,24-08-2026,M. A. Chidambaram Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Gujarat Titans
+M159,2026,25-08-2026,Eden Gardens,Punjab Kings,Delhi Capitals,Punjab Kings,Punjab Kings
+M160,2026,26-08-2026,Ekana Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians
+M161,2026,27-08-2026,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,Punjab Kings
+M162,2026,28-08-2026,PCA Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru
+M163,2026,29-08-2026,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad
+M164,2026,30-08-2026,Narendra Modi Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings
+M165,2026,31-08-2026,Wankhede Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians
+M166,2026,01-09-2026,Sawai Mansingh Stadium,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Gujarat Titans
+M167,2026,02-09-2026,PCA Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Delhi Capitals
+M168,2026,03-09-2026,M. A. Chidambaram Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders
+M169,2026,04-09-2026,M Chinnaswamy Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals
+M170,2026,05-09-2026,Ekana Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants
+M171,2026,06-09-2026,M Chinnaswamy Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Punjab Kings
+M172,2026,07-09-2026,Ekana Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders
+M173,2026,08-09-2026,Sawai Mansingh Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,Delhi Capitals
+M174,2026,09-09-2026,Ekana Stadium,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants
+M175,2026,10-09-2026,Ekana Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants
+M176,2026,11-09-2026,M Chinnaswamy Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians
+M177,2026,12-09-2026,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru
+M178,2026,13-09-2026,Wankhede Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lucknow Super Giants
+M179,2026,14-09-2026,M. A. Chidambaram Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Rajasthan Royals
+M180,2026,15-09-2026,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals
+M181,2026,16-09-2026,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders
+M182,2026,17-09-2026,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders
+M183,2026,18-09-2026,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings
+M184,2026,19-09-2026,Eden Gardens,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals
+M185,2026,20-09-2026,PCA Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Gujarat Titans
+M186,2026,21-09-2026,Sawai Mansingh Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings
+M187,2026,22-09-2026,M Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad
+M188,2026,23-09-2026,Rajiv Gandhi Intl Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bengaluru
+M189,2026,24-09-2026,M. A. Chidambaram Stadium,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Gujarat Titans
+M190,2026,25-09-2026,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians
+M191,2026,26-09-2026,Rajiv Gandhi Intl Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,Punjab Kings
+M192,2026,27-09-2026,Wankhede Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals
+M193,2026,28-09-2026,Ekana Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals
+M194,2026,29-09-2026,Sawai Mansingh Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants
+M195,2026,30-09-2026,Sawai Mansingh Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians
+M196,2026,01-10-2026,PCA Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals
+M197,2026,02-10-2026,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings
+M198,2026,03-10-2026,Narendra Modi Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,Rajasthan Royals
+M199,2026,04-10-2026,Arun Jaitley Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,Chennai Super Kings
+M200,2026,05-10-2026,Ekana Stadium,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders
+M201,2026,06-10-2026,Ekana Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings
+M202,2026,07-10-2026,PCA Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chennai Super Kings
+M203,2026,08-10-2026,Ekana Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders
+M204,2026,09-10-2026,Sawai Mansingh Stadium,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders
+M205,2026,10-10-2026,Narendra Modi Stadium,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Gujarat Titans
+M206,2026,11-10-2026,Eden Gardens,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals
+M207,2026,12-10-2026,Rajiv Gandhi Intl Stadium,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals
+M208,2026,13-10-2026,Narendra Modi Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,Mumbai Indians
+M209,2026,14-10-2026,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders
+M210,2026,15-10-2026,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians
+M211,2026,16-10-2026,M. A. Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Delhi Capitals
+M212,2026,17-10-2026,Wankhede Stadium,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,Gujarat Titans
+M213,2026,18-10-2026,Sawai Mansingh Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,Delhi Capitals
+M214,2026,19-10-2026,Rajiv Gandhi Intl Stadium,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru
+M215,2026,20-10-2026,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders
+M216,2026,21-10-2026,Narendra Modi Stadium,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Delhi Capitals
+M217,2026,22-10-2026,Eden Gardens,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M218,2026,23-10-2026,Narendra Modi Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings
+M219,2026,24-10-2026,M Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,Delhi Capitals
+M220,2026,25-10-2026,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders
+M221,2026,26-10-2026,M. A. Chidambaram Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lucknow Super Giants
+M222,2026,27-10-2026,Ekana Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad
+M223,2026,28-10-2026,M. A. Chidambaram Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M224,2026,29-10-2026,Narendra Modi Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings
+M225,2026,30-10-2026,Eden Gardens,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Chennai Super Kings
+M226,2026,31-10-2026,PCA Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,Mumbai Indians
+M227,2026,01-11-2026,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru
+M228,2026,02-11-2026,Ekana Stadium,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants
+M229,2026,03-11-2026,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,Punjab Kings
+M230,2026,04-11-2026,Narendra Modi Stadium,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians
+M231,2026,05-11-2026,Sawai Mansingh Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders
+M232,2026,06-11-2026,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad
+M233,2026,07-11-2026,Sawai Mansingh Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians
+M234,2026,08-11-2026,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians
+M235,2026,09-11-2026,PCA Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Royal Challengers Bengaluru
+M236,2026,10-11-2026,Wankhede Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,Delhi Capitals
+M237,2026,11-11-2026,Eden Gardens,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings
+M238,2026,12-11-2026,Ekana Stadium,Punjab Kings,Lucknow Super Giants,Punjab Kings,Punjab Kings
+M239,2026,13-11-2026,M. A. Chidambaram Stadium,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans
+M240,2026,14-11-2026,Sawai Mansingh Stadium,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Lucknow Super Giants
+M241,2026,15-11-2026,Rajiv Gandhi Intl Stadium,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants
+M242,2026,16-11-2026,M Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Delhi Capitals
+M243,2026,17-11-2026,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru
+M244,2026,18-11-2026,Wankhede Stadium,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Rajasthan Royals
+M245,2026,19-11-2026,M. A. Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings
+M246,2026,20-11-2026,PCA Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals
+M247,2026,21-11-2026,Eden Gardens,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans
+M248,2026,22-11-2026,Rajiv Gandhi Intl Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians
+M249,2026,23-11-2026,Wankhede Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bengaluru
+M250,2026,24-11-2026,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders
