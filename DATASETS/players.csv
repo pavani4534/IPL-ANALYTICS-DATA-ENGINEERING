@@ -1,0 +1,251 @@
+﻿player_id,player_name,role,team,nationality,last_updated
+P001,Virat Kohli,Batsman,Royal Challengers Bengaluru,India,01-01-2026
+P002,Rohit Sharma,Batsman,Mumbai Indians,India,02-01-2026
+P003,Jasprit Bumrah,Bowler,Mumbai Indians,India,03-01-2026
+P004,MS Dhoni,Wicketkeeper,Chennai Super Kings,India,04-01-2026
+P005,Hardik Pandya,All-rounder,Mumbai Indians,India,05-01-2026
+P006,KL Rahul,Wicketkeeper,Delhi Capitals,India,06-01-2026
+P007,Shubman Gill,Batsman,Gujarat Titans,India,07-01-2026
+P008,Ruturaj Gaikwad,Batsman,Chennai Super Kings,India,08-01-2026
+P009,Yashasvi Jaiswal,Batsman,Rajasthan Royals,India,09-01-2026
+P010,Sai Sudharsan,Batsman,Gujarat Titans,India,10-01-2026
+P011,Tilak Varma,Batsman,Mumbai Indians,India,11-01-2026
+P012,Rinku Singh,Batsman,Kolkata Knight Riders,India,12-01-2026
+P013,Sanju Samson,Wicketkeeper,Rajasthan Royals,India,13-01-2026
+P014,Shreyas Iyer,Batsman,Punjab Kings,India,14-01-2026
+P015,Suryakumar Yadav,Batsman,Mumbai Indians,India,15-01-2026
+P016,Rashid Khan,Bowler,Gujarat Titans,Afghanistan,16-01-2026
+P017,Pat Cummins,Bowler,Sunrisers Hyderabad,Australia,17-01-2026
+P018,Trent Boult,Bowler,Rajasthan Royals,New Zealand,18-01-2026
+P019,Mohammed Siraj,Bowler,Gujarat Titans,India,19-01-2026
+P020,Mohammed Shami,Bowler,Sunrisers Hyderabad,India,20-01-2026
+P021,Ravindra Jadeja,All-rounder,Chennai Super Kings,India,21-01-2026
+P022,Kuldeep Yadav,Bowler,Delhi Capitals,India,22-01-2026
+P023,Yuzvendra Chahal,Bowler,Punjab Kings,India,23-01-2026
+P024,Varun Chakravarthy,Bowler,Kolkata Knight Riders,India,24-01-2026
+P025,Arshdeep Singh,Bowler,Punjab Kings,India,25-01-2026
+P026,Harshal Patel,Bowler,Sunrisers Hyderabad,India,26-01-2026
+P027,Abhishek Sharma,All-rounder,Sunrisers Hyderabad,India,27-01-2026
+P028,Nitish Kumar Reddy,All-rounder,Sunrisers Hyderabad,India,28-01-2026
+P029,Ishan Kishan,Wicketkeeper,Sunrisers Hyderabad,India,29-01-2026
+P030,Dhruv Jurel,Wicketkeeper,Rajasthan Royals,India,30-01-2026
+P031,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,31-01-2026
+P032,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,01-02-2026
+P033,Arjun Reddy,Bowler,Kolkata Knight Riders,New Zealand,02-02-2026
+P034,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,03-02-2026
+P035,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,04-02-2026
+P036,Manav Verma,Batsman,Punjab Kings,South Africa,05-02-2026
+P037,Karan Singh,Bowler,Rajasthan Royals,India,06-02-2026
+P038,Neel Kulkarni,All-rounder,Gujarat Titans,India,07-02-2026
+P039,Harsh Menon,Wicketkeeper,Lucknow Super Giants,Sri Lanka,08-02-2026
+P040,Akash Pillai,Batsman,Mumbai Indians,India,09-02-2026
+P041,Dev Shetty,Bowler,Chennai Super Kings,India,10-02-2026
+P042,Pranav Bose,All-rounder,Royal Challengers Bengaluru,West Indies,11-02-2026
+P043,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,12-02-2026
+P044,Aryan Rao,Batsman,Sunrisers Hyderabad,India,13-02-2026
+P045,Rohan Gill,Bowler,Delhi Capitals,Afghanistan,14-02-2026
+P046,Yash Kumar,All-rounder,Punjab Kings,India,15-02-2026
+P047,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,16-02-2026
+P048,Rahul Malhotra,Batsman,Gujarat Titans,India,17-02-2026
+P049,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,18-02-2026
+P050,Siddharth Iyer,All-rounder,Mumbai Indians,India,19-02-2026
+P051,Aarav Sharma,Wicketkeeper,Chennai Super Kings,Australia,20-02-2026
+P052,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,21-02-2026
+P053,Arjun Reddy,Bowler,Kolkata Knight Riders,India,22-02-2026
+P054,Aditya Nair,All-rounder,Sunrisers Hyderabad,England,23-02-2026
+P055,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,24-02-2026
+P056,Manav Verma,Batsman,Punjab Kings,India,25-02-2026
+P057,Karan Singh,Bowler,Rajasthan Royals,New Zealand,26-02-2026
+P058,Neel Kulkarni,All-rounder,Gujarat Titans,India,27-02-2026
+P059,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,28-02-2026
+P060,Akash Pillai,Batsman,Mumbai Indians,South Africa,01-03-2026
+P061,Dev Shetty,Bowler,Chennai Super Kings,India,02-03-2026
+P062,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,03-03-2026
+P063,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,Sri Lanka,04-03-2026
+P064,Aryan Rao,Batsman,Sunrisers Hyderabad,India,05-03-2026
+P065,Rohan Gill,Bowler,Delhi Capitals,India,06-03-2026
+P066,Yash Kumar,All-rounder,Punjab Kings,West Indies,07-03-2026
+P067,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,08-03-2026
+P068,Rahul Malhotra,Batsman,Gujarat Titans,India,09-03-2026
+P069,Nikhil Bhosale,Bowler,Lucknow Super Giants,Afghanistan,10-03-2026
+P070,Siddharth Iyer,All-rounder,Mumbai Indians,India,11-03-2026
+P071,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,12-03-2026
+P072,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,13-03-2026
+P073,Arjun Reddy,Bowler,Kolkata Knight Riders,India,14-03-2026
+P074,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,15-03-2026
+P075,Krishna Joshi,Wicketkeeper,Delhi Capitals,Australia,16-03-2026
+P076,Manav Verma,Batsman,Punjab Kings,India,17-03-2026
+P077,Karan Singh,Bowler,Rajasthan Royals,India,18-03-2026
+P078,Neel Kulkarni,All-rounder,Gujarat Titans,England,19-03-2026
+P079,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,20-03-2026
+P080,Akash Pillai,Batsman,Mumbai Indians,India,21-03-2026
+P081,Dev Shetty,Bowler,Chennai Super Kings,New Zealand,22-03-2026
+P082,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,23-03-2026
+P083,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,24-03-2026
+P084,Aryan Rao,Batsman,Sunrisers Hyderabad,South Africa,25-03-2026
+P085,Rohan Gill,Bowler,Delhi Capitals,India,26-03-2026
+P086,Yash Kumar,All-rounder,Punjab Kings,India,27-03-2026
+P087,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,Sri Lanka,28-03-2026
+P088,Rahul Malhotra,Batsman,Gujarat Titans,India,29-03-2026
+P089,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,30-03-2026
+P090,Siddharth Iyer,All-rounder,Mumbai Indians,West Indies,31-03-2026
+P091,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,01-04-2026
+P092,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,02-04-2026
+P093,Arjun Reddy,Bowler,Kolkata Knight Riders,Afghanistan,03-04-2026
+P094,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,04-04-2026
+P095,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,05-04-2026
+P096,Manav Verma,Batsman,Punjab Kings,India,06-04-2026
+P097,Karan Singh,Bowler,Rajasthan Royals,India,07-04-2026
+P098,Neel Kulkarni,All-rounder,Gujarat Titans,India,08-04-2026
+P099,Harsh Menon,Wicketkeeper,Lucknow Super Giants,Australia,09-04-2026
+P100,Akash Pillai,Batsman,Mumbai Indians,India,10-04-2026
+P101,Dev Shetty,Bowler,Chennai Super Kings,India,11-04-2026
+P102,Pranav Bose,All-rounder,Royal Challengers Bengaluru,England,12-04-2026
+P103,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,13-04-2026
+P104,Aryan Rao,Batsman,Sunrisers Hyderabad,India,14-04-2026
+P105,Rohan Gill,Bowler,Delhi Capitals,New Zealand,15-04-2026
+P106,Yash Kumar,All-rounder,Punjab Kings,India,16-04-2026
+P107,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,17-04-2026
+P108,Rahul Malhotra,Batsman,Gujarat Titans,South Africa,18-04-2026
+P109,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,19-04-2026
+P110,Siddharth Iyer,All-rounder,Mumbai Indians,India,20-04-2026
+P111,Aarav Sharma,Wicketkeeper,Chennai Super Kings,Sri Lanka,21-04-2026
+P112,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,22-04-2026
+P113,Arjun Reddy,Bowler,Kolkata Knight Riders,India,23-04-2026
+P114,Aditya Nair,All-rounder,Sunrisers Hyderabad,West Indies,24-04-2026
+P115,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,25-04-2026
+P116,Manav Verma,Batsman,Punjab Kings,India,26-04-2026
+P117,Karan Singh,Bowler,Rajasthan Royals,Afghanistan,27-04-2026
+P118,Neel Kulkarni,All-rounder,Gujarat Titans,India,28-04-2026
+P119,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,29-04-2026
+P120,Akash Pillai,Batsman,Mumbai Indians,India,30-04-2026
+P121,Dev Shetty,Bowler,Chennai Super Kings,India,01-05-2026
+P122,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,02-05-2026
+P123,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,Australia,03-05-2026
+P124,Aryan Rao,Batsman,Sunrisers Hyderabad,India,04-05-2026
+P125,Rohan Gill,Bowler,Delhi Capitals,India,05-05-2026
+P126,Yash Kumar,All-rounder,Punjab Kings,England,06-05-2026
+P127,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,07-05-2026
+P128,Rahul Malhotra,Batsman,Gujarat Titans,India,08-05-2026
+P129,Nikhil Bhosale,Bowler,Lucknow Super Giants,New Zealand,09-05-2026
+P130,Siddharth Iyer,All-rounder,Mumbai Indians,India,10-05-2026
+P131,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,11-05-2026
+P132,Vivaan Patel,Batsman,Royal Challengers Bengaluru,South Africa,12-05-2026
+P133,Arjun Reddy,Bowler,Kolkata Knight Riders,India,13-05-2026
+P134,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,14-05-2026
+P135,Krishna Joshi,Wicketkeeper,Delhi Capitals,Sri Lanka,15-05-2026
+P136,Manav Verma,Batsman,Punjab Kings,India,16-05-2026
+P137,Karan Singh,Bowler,Rajasthan Royals,India,17-05-2026
+P138,Neel Kulkarni,All-rounder,Gujarat Titans,West Indies,18-05-2026
+P139,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,19-05-2026
+P140,Akash Pillai,Batsman,Mumbai Indians,India,20-05-2026
+P141,Dev Shetty,Bowler,Chennai Super Kings,Afghanistan,21-05-2026
+P142,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,22-05-2026
+P143,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,23-05-2026
+P144,Aryan Rao,Batsman,Sunrisers Hyderabad,India,24-05-2026
+P145,Rohan Gill,Bowler,Delhi Capitals,India,25-05-2026
+P146,Yash Kumar,All-rounder,Punjab Kings,India,26-05-2026
+P147,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,Australia,27-05-2026
+P148,Rahul Malhotra,Batsman,Gujarat Titans,India,28-05-2026
+P149,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,29-05-2026
+P150,Siddharth Iyer,All-rounder,Mumbai Indians,England,30-05-2026
+P151,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,31-05-2026
+P152,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,01-06-2026
+P153,Arjun Reddy,Bowler,Kolkata Knight Riders,New Zealand,02-06-2026
+P154,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,03-06-2026
+P155,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,04-06-2026
+P156,Manav Verma,Batsman,Punjab Kings,South Africa,05-06-2026
+P157,Karan Singh,Bowler,Rajasthan Royals,India,06-06-2026
+P158,Neel Kulkarni,All-rounder,Gujarat Titans,India,07-06-2026
+P159,Harsh Menon,Wicketkeeper,Lucknow Super Giants,Sri Lanka,08-06-2026
+P160,Akash Pillai,Batsman,Mumbai Indians,India,09-06-2026
+P161,Dev Shetty,Bowler,Chennai Super Kings,India,10-06-2026
+P162,Pranav Bose,All-rounder,Royal Challengers Bengaluru,West Indies,11-06-2026
+P163,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,12-06-2026
+P164,Aryan Rao,Batsman,Sunrisers Hyderabad,India,13-06-2026
+P165,Rohan Gill,Bowler,Delhi Capitals,Afghanistan,14-06-2026
+P166,Yash Kumar,All-rounder,Punjab Kings,India,15-06-2026
+P167,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,16-06-2026
+P168,Rahul Malhotra,Batsman,Gujarat Titans,India,17-06-2026
+P169,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,18-06-2026
+P170,Siddharth Iyer,All-rounder,Mumbai Indians,India,19-06-2026
+P171,Aarav Sharma,Wicketkeeper,Chennai Super Kings,Australia,20-06-2026
+P172,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,21-06-2026
+P173,Arjun Reddy,Bowler,Kolkata Knight Riders,India,22-06-2026
+P174,Aditya Nair,All-rounder,Sunrisers Hyderabad,England,23-06-2026
+P175,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,24-06-2026
+P176,Manav Verma,Batsman,Punjab Kings,India,25-06-2026
+P177,Karan Singh,Bowler,Rajasthan Royals,New Zealand,26-06-2026
+P178,Neel Kulkarni,All-rounder,Gujarat Titans,India,27-06-2026
+P179,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,28-06-2026
+P180,Akash Pillai,Batsman,Mumbai Indians,South Africa,29-06-2026
+P181,Dev Shetty,Bowler,Chennai Super Kings,India,30-06-2026
+P182,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,01-07-2026
+P183,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,Sri Lanka,02-07-2026
+P184,Aryan Rao,Batsman,Sunrisers Hyderabad,India,03-07-2026
+P185,Rohan Gill,Bowler,Delhi Capitals,India,04-07-2026
+P186,Yash Kumar,All-rounder,Punjab Kings,West Indies,05-07-2026
+P187,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,06-07-2026
+P188,Rahul Malhotra,Batsman,Gujarat Titans,India,07-07-2026
+P189,Nikhil Bhosale,Bowler,Lucknow Super Giants,Afghanistan,08-07-2026
+P190,Siddharth Iyer,All-rounder,Mumbai Indians,India,09-07-2026
+P191,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,10-07-2026
+P192,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,11-07-2026
+P193,Arjun Reddy,Bowler,Kolkata Knight Riders,India,12-07-2026
+P194,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,13-07-2026
+P195,Krishna Joshi,Wicketkeeper,Delhi Capitals,Australia,14-07-2026
+P196,Manav Verma,Batsman,Punjab Kings,India,15-07-2026
+P197,Karan Singh,Bowler,Rajasthan Royals,India,16-07-2026
+P198,Neel Kulkarni,All-rounder,Gujarat Titans,England,17-07-2026
+P199,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,18-07-2026
+P200,Akash Pillai,Batsman,Mumbai Indians,India,19-07-2026
+P201,Dev Shetty,Bowler,Chennai Super Kings,New Zealand,20-07-2026
+P202,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,21-07-2026
+P203,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,22-07-2026
+P204,Aryan Rao,Batsman,Sunrisers Hyderabad,South Africa,23-07-2026
+P205,Rohan Gill,Bowler,Delhi Capitals,India,24-07-2026
+P206,Yash Kumar,All-rounder,Punjab Kings,India,25-07-2026
+P207,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,Sri Lanka,26-07-2026
+P208,Rahul Malhotra,Batsman,Gujarat Titans,India,27-07-2026
+P209,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,28-07-2026
+P210,Siddharth Iyer,All-rounder,Mumbai Indians,West Indies,29-07-2026
+P211,Aarav Sharma,Wicketkeeper,Chennai Super Kings,India,30-07-2026
+P212,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,31-07-2026
+P213,Arjun Reddy,Bowler,Kolkata Knight Riders,Afghanistan,01-08-2026
+P214,Aditya Nair,All-rounder,Sunrisers Hyderabad,India,02-08-2026
+P215,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,03-08-2026
+P216,Manav Verma,Batsman,Punjab Kings,India,04-08-2026
+P217,Karan Singh,Bowler,Rajasthan Royals,India,05-08-2026
+P218,Neel Kulkarni,All-rounder,Gujarat Titans,India,06-08-2026
+P219,Harsh Menon,Wicketkeeper,Lucknow Super Giants,Australia,07-08-2026
+P220,Akash Pillai,Batsman,Mumbai Indians,India,08-08-2026
+P221,Dev Shetty,Bowler,Chennai Super Kings,India,09-08-2026
+P222,Pranav Bose,All-rounder,Royal Challengers Bengaluru,England,10-08-2026
+P223,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,India,11-08-2026
+P224,Aryan Rao,Batsman,Sunrisers Hyderabad,India,12-08-2026
+P225,Rohan Gill,Bowler,Delhi Capitals,New Zealand,13-08-2026
+P226,Yash Kumar,All-rounder,Punjab Kings,India,14-08-2026
+P227,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,15-08-2026
+P228,Rahul Malhotra,Batsman,Gujarat Titans,South Africa,16-08-2026
+P229,Nikhil Bhosale,Bowler,Lucknow Super Giants,India,17-08-2026
+P230,Siddharth Iyer,All-rounder,Mumbai Indians,India,18-08-2026
+P231,Aarav Sharma,Wicketkeeper,Chennai Super Kings,Sri Lanka,19-08-2026
+P232,Vivaan Patel,Batsman,Royal Challengers Bengaluru,India,20-08-2026
+P233,Arjun Reddy,Bowler,Kolkata Knight Riders,India,21-08-2026
+P234,Aditya Nair,All-rounder,Sunrisers Hyderabad,West Indies,22-08-2026
+P235,Krishna Joshi,Wicketkeeper,Delhi Capitals,India,23-08-2026
+P236,Manav Verma,Batsman,Punjab Kings,India,24-08-2026
+P237,Karan Singh,Bowler,Rajasthan Royals,Afghanistan,25-08-2026
+P238,Neel Kulkarni,All-rounder,Gujarat Titans,India,26-08-2026
+P239,Harsh Menon,Wicketkeeper,Lucknow Super Giants,India,27-08-2026
+P240,Akash Pillai,Batsman,Mumbai Indians,India,28-08-2026
+P241,Dev Shetty,Bowler,Chennai Super Kings,India,29-08-2026
+P242,Pranav Bose,All-rounder,Royal Challengers Bengaluru,India,30-08-2026
+P243,Vihaan Deshmukh,Wicketkeeper,Kolkata Knight Riders,Australia,31-08-2026
+P244,Aryan Rao,Batsman,Sunrisers Hyderabad,India,01-09-2026
+P245,Rohan Gill,Bowler,Delhi Capitals,India,02-09-2026
+P246,Yash Kumar,All-rounder,Punjab Kings,England,03-09-2026
+P247,Ishaan Naidu,Wicketkeeper,Rajasthan Royals,India,04-09-2026
+P248,Rahul Malhotra,Batsman,Gujarat Titans,India,05-09-2026
+P249,Nikhil Bhosale,Bowler,Lucknow Super Giants,New Zealand,06-09-2026
+P250,Siddharth Iyer,All-rounder,Mumbai Indians,India,07-09-2026
