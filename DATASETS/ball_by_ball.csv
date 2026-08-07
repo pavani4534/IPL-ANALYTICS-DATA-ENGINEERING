@@ -1,1 +1,1001 @@
-
+﻿match_id,innings,over,ball,batsman,bowler,runs_off_bat,extras,is_wicket
+M075,1,13,4,Dhoni,Ben Stokes,0,0,0
+M005,2,3,2,Prasidh Krishna,Adam Zampa,0,0,0
+M033,2,1,4,Noor Ahmad,Ravindra Jadeja,0,2,0
+M247,1,10,5,R Ashwin,Varun Chakravarthy,1,0,0
+M061,1,7,2,Jake Fraser-McGurk,Trent Boult,0,0,0
+M250,2,3,3,Rinku Singh,Mohammed Siraj,6,0,0
+M105,2,13,4,Harshal Patel,Will Jacks,1,0,0
+M141,1,7,5,Sam Curran,Adam Zampa,2,1,0
+M226,2,13,1,Shreyas Iyer,Arshdeep Singh,4,0,0
+M235,1,15,1,Shivam Dube,Shimron Hetmyer,1,0,0
+M043,1,1,3,Glenn Maxwell,Tushar Deshpande,1,1,0
+M185,2,20,1,Mukesh Kumar,R Ashwin,0,0,0
+M093,1,4,6,Rahmanullah Gurbaz,Rashid Khan,0,0,0
+M081,2,3,3,Pat Cummins,Adam Zampa,1,0,0
+M055,1,19,2,Heinrich Klaasen,Venkatesh Iyer,4,0,0
+M146,2,1,3,Yuzvendra Chahal,Matheesha Pathirana,4,0,0
+M234,1,6,1,Dhruv Jurel,Aiden Markram,0,0,0
+M105,2,11,1,Mohsin Khan,Shahbaz Ahmed,0,0,0
+M137,1,10,2,Yuzvendra Chahal,Kyle Mayers,1,0,0
+M063,2,8,3,Ruturaj Gaikwad,Daryl Mitchell,1,0,0
+M241,2,2,2,Yashasvi Jaiswal,Mitchell Marsh,1,0,0
+M061,1,12,6,Noor Ahmad,Mohammed Siraj,6,0,0
+M231,1,7,1,Rachin Ravindra,Angkrish Raghuvanshi,1,0,0
+M068,2,20,5,Ben Stokes,Will Jacks,3,0,0
+M021,2,6,4,Dhruv Jurel,Devdutt Padikkal,0,0,1
+M192,2,7,3,Ravindra Jadeja,Pat Cummins,1,0,0
+M015,1,15,6,Jos Buttler,Anrich Nortje,0,0,0
+M148,1,3,3,Trent Boult,Quinton de Kock,1,0,0
+M065,2,16,6,Jake Fraser-McGurk,Pat Cummins,4,0,0
+M165,2,18,2,Mukesh Kumar,Harshal Patel,1,0,0
+M155,1,9,4,Heinrich Klaasen,Kuldeep Yadav,1,0,0
+M115,2,13,6,Shubman Gill,Varun Chakravarthy,1,0,0
+M186,2,6,5,Tilak Varma,Mohammed Shami,1,0,1
+M170,2,19,5,Dhoni,Abdul Samad,4,0,0
+M043,2,20,4,Phil Salt,Mohsin Khan,1,0,0
+M238,2,14,3,R Ashwin,Marco Jansen,1,0,0
+M190,2,5,1,Nicholas Pooran,Kagiso Rabada,1,1,0
+M211,1,19,2,Devdutt Padikkal,Varun Chakravarthy,0,0,0
+M154,2,14,4,Yuzvendra Chahal,Jake Fraser-McGurk,6,0,0
+M123,2,20,2,Riyan Parag,Shahbaz Ahmed,0,0,0
+M020,2,7,1,Sai Sudharsan,Trent Boult,0,2,0
+M040,1,12,6,Travis Head,Jake Fraser-McGurk,2,0,0
+M041,1,14,5,Trent Boult,Ayush Badoni,0,0,1
+M171,2,4,1,Nitish Kumar Reddy,Gerald Coetzee,4,0,0
+M039,1,19,6,Shubman Gill,Naveen ul Haq,4,0,0
+M111,1,6,4,Mohammed Siraj,Ayush Badoni,1,0,0
+M212,2,11,1,Naveen ul Haq,Yuzvendra Chahal,1,0,0
+M244,2,7,4,Daryl Mitchell,Mitchell Starc,1,0,0
+M139,2,15,5,Abhishek Sharma,Jason Holder,0,0,0
+M114,1,19,4,Matheesha Pathirana,Aiden Markram,4,0,0
+M096,1,16,6,Liam Livingstone,Tushar Deshpande,0,0,0
+M194,1,1,3,Mitchell Starc,Rajat Patidar,1,0,0
+M222,2,2,1,Rahmanullah Gurbaz,Harshal Patel,0,0,0
+M031,1,14,3,Bhuvneshwar Kumar,Jasprit Bumrah,0,0,0
+M180,2,15,6,Sai Sudharsan,Kyle Mayers,4,0,0
+M176,2,2,1,Naveen ul Haq,R Sai Kishore,0,0,0
+M206,1,5,6,Varun Chakravarthy,Naveen ul Haq,1,0,0
+M034,1,20,1,Shubman Gill,Shimron Hetmyer,4,0,0
+M238,1,11,2,Gerald Coetzee,Lockie Ferguson,0,0,0
+M238,1,7,3,Faf du Plessis,Ashutosh Sharma,1,1,0
+M104,1,17,1,Rahul Tripathi,Matheesha Pathirana,1,0,0
+M096,2,13,1,Mayank Yadav,Rachin Ravindra,4,0,0
+M069,2,6,3,Trent Boult,Mohammed Siraj,1,0,0
+M059,1,16,3,Gerald Coetzee,Reece Topley,0,0,0
+M176,2,4,6,Mayank Yadav,Ben Stokes,0,1,0
+M201,1,1,4,Pat Cummins,Glenn Phillips,0,1,1
+M067,1,3,1,R Ashwin,Gerald Coetzee,1,0,0
+M018,1,13,2,Rashid Khan,Will Jacks,0,0,0
+M060,2,12,1,Yashasvi Jaiswal,Varun Chakravarthy,0,0,0
+M159,2,10,1,Jake Fraser-McGurk,Reece Topley,4,0,0
+M032,2,5,6,Mohsin Khan,Matheesha Pathirana,1,0,0
+M118,2,6,3,Jos Buttler,Tushar Deshpande,0,0,0
+M186,1,8,6,Lockie Ferguson,Venkatesh Iyer,2,0,0
+M170,2,20,5,Dhruv Jurel,Gerald Coetzee,3,0,0
+M206,2,18,4,Quinton de Kock,Ravindra Jadeja,1,0,0
+M022,2,17,1,Yashasvi Jaiswal,Yuzvendra Chahal,1,0,0
+M159,2,15,4,Shivam Dube,Varun Chakravarthy,6,0,0
+M040,2,1,3,Jake Fraser-McGurk,Varun Chakravarthy,1,0,0
+M188,1,11,6,T Natarajan,Axar Patel,3,0,0
+M193,1,8,3,Phil Salt,Trent Boult,0,0,0
+M117,1,13,6,Rahmanullah Gurbaz,Lockie Ferguson,1,0,1
+M182,2,13,5,Jos Buttler,Rajat Patidar,2,0,0
+M175,1,6,3,Shreyas Iyer,Arshdeep Singh,0,0,0
+M250,2,9,1,Rinku Singh,Yash Dayal,0,0,0
+M025,1,11,6,Tilak Varma,Anrich Nortje,0,1,0
+M179,1,3,5,Glenn Maxwell,Gerald Coetzee,1,0,0
+M243,2,7,5,Shivam Dube,Angkrish Raghuvanshi,2,0,0
+M150,2,20,6,Devdutt Padikkal,Krunal Pandya,2,2,0
+M013,2,19,2,Virat Kohli,Adam Zampa,2,2,0
+M177,2,5,4,Ruturaj Gaikwad,Nehal Wadhera,0,0,0
+M007,1,11,2,Devdutt Padikkal,Kane Williamson,1,0,0
+M034,1,4,1,Trent Boult,Shimron Hetmyer,0,0,0
+M230,1,2,1,Ishan Kishan,Kane Williamson,2,1,1
+M137,1,6,1,Gerald Coetzee,Ashutosh Sharma,4,0,0
+M227,2,13,6,Mukesh Kumar,Nehal Wadhera,1,0,0
+M080,1,18,5,Nitish Kumar Reddy,Chris Jordan,0,0,0
+M095,2,13,4,Rohit Sharma,Ryan Rickelton,1,0,0
+M244,2,20,5,Ruturaj Gaikwad,Arshdeep Singh,0,0,0
+M061,2,3,6,Ishan Kishan,Yuzvendra Chahal,1,0,0
+M125,1,19,1,Matheesha Pathirana,Harpreet Brar,1,0,0
+M103,1,18,3,Tim David,Kuldeep Yadav,6,0,0
+M161,1,13,3,Tim David,R Ashwin,1,0,0
+M192,1,15,5,Kagiso Rabada,Glenn Phillips,0,0,0
+M066,2,17,5,Tim David,Angkrish Raghuvanshi,0,0,0
+M103,1,4,2,Travis Head,Abdul Samad,1,0,0
+M103,2,2,1,Varun Chakravarthy,Shimron Hetmyer,1,0,0
+M243,1,19,2,Marcus Stoinis,Quinton de Kock,0,0,0
+M152,1,13,1,Riyan Parag,Angkrish Raghuvanshi,1,0,0
+M048,2,19,1,Tim David,Krunal Pandya,1,0,0
+M011,1,2,3,Travis Head,Abdul Samad,2,0,0
+M226,2,2,5,Shivam Dube,Daryl Mitchell,4,1,0
+M185,2,3,1,Harshal Patel,R Sai Kishore,4,0,0
+M242,2,6,1,Tilak Varma,Anrich Nortje,6,1,0
+M060,2,14,3,Gerald Coetzee,Trent Boult,1,0,0
+M176,1,20,6,Rashid Khan,Quinton de Kock,1,0,0
+M014,2,19,1,Kagiso Rabada,Kuldeep Yadav,0,0,0
+M049,1,17,5,Dhruv Jurel,Rahmanullah Gurbaz,1,0,0
+M042,1,15,4,Liam Livingstone,Jake Fraser-McGurk,2,0,0
+M178,2,3,1,Heinrich Klaasen,Kuldeep Yadav,2,0,0
+M099,2,3,4,Sanju Samson,Chris Jordan,3,0,0
+M052,1,8,4,Bhuvneshwar Kumar,Mitchell Marsh,4,0,0
+M221,2,5,6,Marcus Stoinis,Liam Livingstone,0,0,0
+M243,2,11,3,Rohit Sharma,Ryan Rickelton,4,0,0
+M144,1,12,5,Mukesh Kumar,Mohsin Khan,6,0,0
+M120,1,4,4,Rachin Ravindra,Daryl Mitchell,0,0,0
+M211,1,16,5,R Ashwin,Daryl Mitchell,1,0,0
+M022,2,5,1,Heinrich Klaasen,Rajat Patidar,2,0,0
+M196,1,4,4,Harshal Patel,Ayush Badoni,4,1,0
+M141,1,4,5,Phil Salt,Quinton de Kock,2,0,0
+M219,2,7,1,Mohsin Khan,Noor Ahmad,0,2,0
+M141,1,12,1,Ravindra Jadeja,Noor Ahmad,1,0,0
+M208,2,19,5,Sam Curran,Mitchell Starc,0,0,0
+M074,2,16,5,Shubman Gill,Anrich Nortje,0,0,0
+M139,2,12,3,Dhruv Jurel,Reece Topley,0,0,0
+M048,1,3,5,Harshal Patel,Kuldeep Yadav,1,0,0
+M243,1,1,4,Harshal Patel,Harshal Patel,2,0,0
+M173,1,11,6,Bhuvneshwar Kumar,Kyle Mayers,1,0,0
+M115,2,4,3,Riyan Parag,Josh Hazlewood,1,0,0
+M188,1,9,5,Axar Patel,Shimron Hetmyer,1,0,0
+M010,2,14,3,Avesh Khan,Jasprit Bumrah,0,0,0
+M030,1,9,1,Faf du Plessis,Rahmanullah Gurbaz,0,0,0
+M078,1,4,3,Phil Salt,Naveen ul Haq,0,0,0
+M036,1,13,4,Axar Patel,Lockie Ferguson,4,0,0
+M001,1,15,6,Naveen ul Haq,Yash Dayal,1,0,0
+M061,2,9,3,Phil Salt,Harpreet Brar,4,1,0
+M103,1,16,1,Tilak Varma,Chris Jordan,3,1,0
+M086,2,19,4,Noor Ahmad,Krunal Pandya,3,0,0
+M064,1,20,4,Travis Head,Khaleel Ahmed,0,1,0
+M073,2,18,4,Lockie Ferguson,Gerald Coetzee,2,1,0
+M194,1,14,5,Harshal Patel,Will Jacks,2,0,0
+M170,2,19,2,Shivam Dube,Rahmanullah Gurbaz,1,0,0
+M182,1,2,4,Devdutt Padikkal,Rachin Ravindra,2,0,0
+M203,1,11,4,Deepak Chahar,Mohsin Khan,0,1,0
+M201,1,4,1,Rashid Khan,R Ashwin,0,0,0
+M097,2,5,5,Avesh Khan,R Ashwin,0,0,0
+M217,1,7,6,Mayank Yadav,Mohammed Siraj,1,0,0
+M027,1,15,5,Ruturaj Gaikwad,Yuzvendra Chahal,1,0,0
+M192,1,9,4,Marcus Stoinis,Anrich Nortje,4,0,0
+M220,1,7,2,Nicholas Pooran,Mohammed Shami,0,0,0
+M203,1,2,4,Shubman Gill,Nehal Wadhera,0,0,0
+M235,2,17,3,Jasprit Bumrah,Wanindu Hasaranga,0,1,0
+M243,2,10,6,Ruturaj Gaikwad,Daryl Mitchell,2,0,0
+M082,1,17,6,KL Rahul,Mohammed Siraj,1,0,0
+M215,1,11,5,Nitish Kumar Reddy,Harpreet Brar,1,0,0
+M172,1,15,6,Sam Curran,Varun Chakravarthy,1,0,0
+M060,2,18,2,Rahmanullah Gurbaz,Mitchell Marsh,0,0,1
+M238,2,19,4,Suryakumar Yadav,Mark Wood,1,1,0
+M050,1,16,2,T Natarajan,Shahbaz Ahmed,1,0,0
+M223,2,10,4,Varun Chakravarthy,Jason Holder,2,0,0
+M077,1,1,6,Sam Curran,Matheesha Pathirana,1,0,0
+M050,2,17,5,Deepak Chahar,Glenn Phillips,4,0,0
+M109,1,7,5,Rashid Khan,R Ashwin,1,1,0
+M046,2,15,1,Pat Cummins,Yash Dayal,4,0,0
+M013,1,12,6,Riyan Parag,Mayank Yadav,1,0,0
+M206,1,18,5,Kagiso Rabada,Tim David,1,1,0
+M056,1,3,1,Mohammed Shami,Adam Zampa,1,1,0
+M244,2,17,3,Yuzvendra Chahal,Rajat Patidar,4,0,0
+M207,1,19,3,Deepak Chahar,R Sai Kishore,0,1,0
+M209,2,11,1,Travis Head,Ben Stokes,0,0,0
+M008,2,3,1,Mohsin Khan,Ben Stokes,0,0,0
+M077,1,6,5,Rachin Ravindra,Chris Jordan,0,0,0
+M023,2,6,5,Mohammed Shami,Kuldeep Yadav,1,1,0
+M192,2,15,6,David Miller,Jason Holder,4,0,0
+M027,2,16,1,Ravindra Jadeja,Pat Cummins,1,0,0
+M235,2,8,1,Matheesha Pathirana,Ravindra Jadeja,2,0,0
+M082,2,10,5,Suryakumar Yadav,Axar Patel,0,1,0
+M057,1,5,6,Ben Stokes,Harpreet Brar,6,1,0
+M207,2,15,3,Suryakumar Yadav,Rajat Patidar,6,0,0
+M199,2,19,5,Daryl Mitchell,Harpreet Brar,2,0,0
+M207,1,8,1,Noor Ahmad,Will Jacks,2,1,0
+M104,1,6,5,Ben Stokes,Mohammed Shami,4,0,0
+M053,2,5,3,Shubman Gill,Quinton de Kock,1,0,0
+M245,1,14,4,Washington Sundar,Marco Jansen,1,1,0
+M054,2,19,6,Glenn Maxwell,Noor Ahmad,0,0,0
+M043,1,16,3,Shivam Dube,Ramandeep Singh,3,0,0
+M166,1,3,3,Yuzvendra Chahal,Lockie Ferguson,1,0,0
+M072,2,19,3,Trent Boult,Mark Wood,4,0,0
+M211,1,6,5,Shivam Dube,Rashid Khan,0,0,0
+M193,1,2,1,Kuldeep Yadav,Josh Hazlewood,0,0,0
+M020,2,2,1,Avesh Khan,Jason Holder,0,0,0
+M124,2,3,4,Rachin Ravindra,Daryl Mitchell,2,0,0
+M110,1,3,4,Sanju Samson,Axar Patel,1,0,0
+M127,2,4,2,Mukesh Kumar,Gerald Coetzee,1,0,0
+M138,1,15,3,T Natarajan,Matheesha Pathirana,1,1,0
+M201,1,14,3,Mohammed Siraj,Devdutt Padikkal,1,0,0
+M092,1,10,2,Marco Jansen,David Miller,3,1,0
+M194,2,11,1,Sanju Samson,Harpreet Brar,0,0,0
+M044,1,8,3,Arshdeep Singh,Aiden Markram,0,0,0
+M160,1,7,6,Marco Jansen,Josh Hazlewood,1,0,0
+M138,1,11,5,Ishan Kishan,Devdutt Padikkal,1,0,1
+M166,1,2,6,Sanju Samson,Tushar Deshpande,0,0,0
+M188,2,9,6,Virat Kohli,R Sai Kishore,3,0,0
+M163,1,17,1,Mohammed Shami,Kagiso Rabada,4,0,0
+M021,2,14,5,Phil Salt,Mitchell Starc,0,0,0
+M185,1,16,5,Devdutt Padikkal,Harshal Patel,4,0,0
+M114,2,12,2,Shreyas Iyer,Ramandeep Singh,1,0,0
+M181,2,19,5,Varun Chakravarthy,Ramandeep Singh,3,0,0
+M226,2,1,5,Faf du Plessis,Naveen ul Haq,1,1,0
+M184,1,9,2,Axar Patel,Shimron Hetmyer,1,0,0
+M094,2,9,3,Deepak Chahar,Jasprit Bumrah,0,0,0
+M027,1,4,4,Sam Curran,R Ashwin,1,0,1
+M061,2,1,6,Gerald Coetzee,Josh Hazlewood,4,0,0
+M243,2,10,2,Ishan Kishan,Ashutosh Sharma,0,0,0
+M204,2,4,4,Harshal Patel,Reece Topley,0,0,0
+M155,2,2,4,Rinku Singh,Quinton de Kock,0,0,0
+M043,2,9,3,T Natarajan,Axar Patel,0,0,0
+M216,1,15,3,T Natarajan,Nehal Wadhera,0,0,0
+M125,2,20,1,Nicholas Pooran,Kane Williamson,1,0,0
+M012,1,15,5,Rashid Khan,Kane Williamson,0,0,0
+M005,2,12,5,R Ashwin,Arshdeep Singh,4,0,0
+M145,1,14,4,Tim David,Jake Fraser-McGurk,0,0,0
+M096,2,9,1,Arshdeep Singh,Kyle Mayers,4,0,0
+M226,2,6,6,Rachin Ravindra,Devdutt Padikkal,2,0,0
+M082,1,20,3,Sai Sudharsan,R Ashwin,1,0,0
+M180,2,9,5,Mitchell Starc,Harshal Patel,1,0,0
+M009,2,12,1,Tilak Varma,Mark Wood,1,0,0
+M115,2,13,6,Kagiso Rabada,Mohammed Shami,1,0,0
+M153,2,12,1,Noor Ahmad,Noor Ahmad,4,0,0
+M218,2,1,3,Yashasvi Jaiswal,Jasprit Bumrah,1,0,0
+M197,1,19,1,Rachin Ravindra,Chris Jordan,1,0,0
+M191,2,16,6,Matheesha Pathirana,Rashid Khan,1,1,0
+M117,2,9,4,Rinku Singh,Lockie Ferguson,1,2,0
+M211,1,2,6,Suryakumar Yadav,Rashid Khan,1,2,1
+M222,2,10,3,Marco Jansen,Josh Hazlewood,0,0,0
+M241,2,13,5,Bhuvneshwar Kumar,Ramandeep Singh,2,0,1
+M010,2,19,4,Jasprit Bumrah,Kagiso Rabada,2,0,0
+M172,1,17,5,Noor Ahmad,Jasprit Bumrah,0,0,0
+M033,2,9,4,Glenn Maxwell,Lockie Ferguson,1,0,0
+M074,2,3,6,Pat Cummins,David Miller,6,0,0
+M134,1,5,6,Nicholas Pooran,Kyle Mayers,1,0,0
+M222,2,11,4,Liam Livingstone,Trent Boult,0,0,0
+M046,1,11,2,Kuldeep Yadav,Rashid Khan,3,0,0
+M183,2,19,5,KL Rahul,Shimron Hetmyer,3,0,0
+M076,1,15,5,Shreyas Iyer,Ryan Rickelton,0,0,0
+M200,2,15,2,Faf du Plessis,Rahmanullah Gurbaz,4,0,0
+M076,1,9,3,Kuldeep Yadav,Abdul Samad,0,0,0
+M142,1,2,5,Lockie Ferguson,Ryan Rickelton,0,0,0
+M103,2,15,1,Pat Cummins,Harshal Patel,3,1,0
+M057,1,12,1,Rashid Khan,Mayank Yadav,1,0,0
+M247,1,14,3,Ishan Kishan,R Sai Kishore,1,0,0
+M153,1,9,3,Noor Ahmad,Quinton de Kock,3,0,0
+M195,2,10,3,Yashasvi Jaiswal,Nehal Wadhera,2,0,0
+M248,2,18,5,Liam Livingstone,Axar Patel,2,0,1
+M245,1,10,5,Sanju Samson,Kagiso Rabada,1,0,0
+M205,1,3,3,Yuzvendra Chahal,Rajat Patidar,1,0,0
+M199,1,20,5,Avesh Khan,Mohammed Shami,1,0,1
+M120,2,13,2,Shreyas Iyer,Mark Wood,1,0,1
+M226,1,7,3,Sai Sudharsan,Lockie Ferguson,1,0,0
+M152,2,3,5,Naveen ul Haq,Arshdeep Singh,1,0,0
+M032,1,13,2,Ravindra Jadeja,David Miller,4,0,0
+M015,2,2,5,Mitchell Starc,Krunal Pandya,1,0,0
+M042,1,6,5,Ruturaj Gaikwad,Matheesha Pathirana,1,0,0
+M228,1,2,5,Ishan Kishan,Jasprit Bumrah,0,0,0
+M242,2,16,3,Mohammed Shami,Mitchell Marsh,2,0,0
+M052,1,20,1,R Ashwin,Arshdeep Singh,1,0,0
+M240,2,3,1,Liam Livingstone,Chris Jordan,0,1,0
+M009,1,4,3,Axar Patel,R Sai Kishore,3,0,0
+M234,2,2,6,Ravindra Jadeja,Gerald Coetzee,1,0,0
+M238,1,9,4,Mukesh Kumar,Jason Holder,1,0,0
+M109,2,6,5,Mohsin Khan,Matheesha Pathirana,1,0,0
+M086,2,9,1,Trent Boult,Rahmanullah Gurbaz,2,0,0
+M088,2,15,2,Bhuvneshwar Kumar,Kuldeep Yadav,1,0,0
+M074,2,1,5,Washington Sundar,R Sai Kishore,0,0,0
+M187,1,18,5,Prasidh Krishna,Aiden Markram,4,0,0
+M194,1,1,6,Nicholas Pooran,Tim David,3,0,0
+M192,1,16,1,Virat Kohli,Rajat Patidar,2,0,0
+M014,2,8,5,Marco Jansen,Quinton de Kock,0,0,0
+M195,2,13,3,Deepak Chahar,Chris Jordan,2,0,1
+M106,2,19,4,Nicholas Pooran,Adam Zampa,1,0,0
+M238,1,12,2,Marcus Stoinis,Ryan Rickelton,6,0,0
+M248,2,10,3,Yuzvendra Chahal,Nehal Wadhera,0,1,0
+M122,1,10,4,R Ashwin,Yuzvendra Chahal,4,0,0
+M078,1,20,5,Heinrich Klaasen,Kuldeep Yadav,4,0,1
+M136,1,20,4,Rahul Tripathi,Quinton de Kock,3,0,0
+M006,1,11,1,Lockie Ferguson,Yash Dayal,6,0,0
+M232,2,15,6,Quinton de Kock,Tushar Deshpande,0,0,0
+M071,1,18,5,Dhruv Jurel,Abdul Samad,0,0,0
+M191,2,4,2,Riyan Parag,Kagiso Rabada,1,1,0
+M205,1,4,6,Sanju Samson,Ben Stokes,0,0,0
+M027,1,16,3,Liam Livingstone,Ryan Rickelton,3,1,0
+M008,2,3,3,Matheesha Pathirana,Yash Dayal,1,0,0
+M151,1,18,3,Suryakumar Yadav,R Sai Kishore,0,0,0
+M066,1,6,2,Mohammed Siraj,Mohammed Siraj,0,0,0
+M011,1,10,2,Matheesha Pathirana,Noor Ahmad,0,0,0
+M187,2,13,1,Jasprit Bumrah,Tushar Deshpande,1,0,0
+M201,2,13,3,R Ashwin,Gerald Coetzee,1,0,0
+M080,1,20,3,Lockie Ferguson,Liam Livingstone,2,1,0
+M126,1,15,4,Ryan Rickelton,Rachin Ravindra,1,0,0
+M216,1,19,2,T Natarajan,Venkatesh Iyer,0,1,0
+M016,1,14,3,Dhruv Jurel,Ramandeep Singh,2,1,0
+M079,2,5,1,Shubman Gill,Adam Zampa,1,0,0
+M067,2,13,2,Shubman Gill,Krunal Pandya,4,0,0
+M094,2,19,1,Naveen ul Haq,Rashid Khan,1,1,0
+M184,2,11,4,Rachin Ravindra,Pat Cummins,0,0,0
+M058,2,8,6,Travis Head,Marco Jansen,0,0,0
+M214,1,16,5,Ben Stokes,Mohsin Khan,0,0,0
+M140,2,15,6,Nicholas Pooran,Tim David,4,0,0
+M116,2,7,5,Ben Stokes,Varun Chakravarthy,2,0,0
+M159,1,5,3,Marco Jansen,Naveen ul Haq,0,1,0
+M138,1,1,1,Liam Livingstone,Shimron Hetmyer,0,2,1
+M117,2,5,3,T Natarajan,Rachin Ravindra,0,0,0
+M240,2,8,1,Bhuvneshwar Kumar,Rachin Ravindra,1,0,0
+M193,1,7,4,Mukesh Kumar,Mitchell Marsh,1,0,0
+M019,1,16,2,Yuzvendra Chahal,Krunal Pandya,4,0,0
+M100,2,16,1,Mohammed Siraj,Trent Boult,6,1,0
+M077,2,10,6,KL Rahul,Shahbaz Ahmed,6,0,0
+M165,2,20,2,Mohsin Khan,Ayush Badoni,1,0,0
+M049,1,5,6,Naveen ul Haq,Mitchell Starc,0,0,0
+M196,2,15,2,Deepak Chahar,Josh Hazlewood,1,0,0
+M234,1,20,5,Riyan Parag,Tushar Deshpande,2,0,0
+M170,1,12,5,Prasidh Krishna,Harshal Patel,2,0,0
+M001,1,6,3,Virat Kohli,Aiden Markram,0,0,0
+M236,1,8,6,Mohammed Siraj,David Miller,1,0,0
+M226,1,18,6,Yashasvi Jaiswal,Shahbaz Ahmed,2,1,0
+M025,1,14,5,Mohammed Siraj,Liam Livingstone,4,0,0
+M007,2,15,6,Shubman Gill,Jasprit Bumrah,1,0,0
+M135,2,11,2,Gerald Coetzee,Ryan Rickelton,0,0,0
+M249,1,2,4,Kuldeep Yadav,Will Jacks,0,0,0
+M106,1,11,1,Matheesha Pathirana,Kagiso Rabada,1,0,1
+M024,1,4,5,Mohammed Shami,Chris Jordan,0,0,0
+M235,1,2,1,Naveen ul Haq,Mayank Yadav,1,0,0
+M016,2,10,4,Glenn Maxwell,Ravindra Jadeja,4,0,0
+M024,1,8,3,Mayank Yadav,Shahbaz Ahmed,0,0,0
+M097,1,1,5,Yashasvi Jaiswal,R Ashwin,1,0,0
+M121,1,16,2,Marco Jansen,Nehal Wadhera,4,0,0
+M077,2,3,6,Glenn Maxwell,Yash Dayal,1,0,0
+M162,2,9,3,Kuldeep Yadav,Will Jacks,2,0,0
+M243,1,5,3,Shreyas Iyer,Rajat Patidar,1,0,0
+M217,2,13,1,Rachin Ravindra,Glenn Phillips,1,0,1
+M247,2,2,2,Jake Fraser-McGurk,Venkatesh Iyer,1,0,0
+M225,1,10,2,Rahul Tripathi,Josh Hazlewood,1,0,0
+M173,2,16,1,Quinton de Kock,Kyle Mayers,1,0,0
+M003,1,14,1,Axar Patel,Kuldeep Yadav,0,0,0
+M162,1,13,1,Shivam Dube,Mayank Yadav,2,0,0
+M060,2,6,4,Tilak Varma,Jasprit Bumrah,2,0,0
+M003,1,1,4,Gerald Coetzee,Axar Patel,1,0,0
+M096,1,3,2,Daryl Mitchell,Kyle Mayers,2,0,0
+M217,1,6,1,Tilak Varma,David Miller,1,0,0
+M056,2,17,5,T Natarajan,Rajat Patidar,1,1,0
+M128,2,1,4,Travis Head,R Ashwin,0,0,0
+M226,1,20,1,R Ashwin,Trent Boult,1,0,0
+M225,1,5,4,Nicholas Pooran,Wanindu Hasaranga,6,1,0
+M130,1,11,2,Quinton de Kock,Abdul Samad,0,0,0
+M070,1,7,5,Rinku Singh,Kyle Mayers,2,0,0
+M060,1,15,2,T Natarajan,Rachin Ravindra,1,0,0
+M180,2,11,5,Harshal Patel,Rashid Khan,4,0,0
+M193,1,3,5,Kagiso Rabada,R Sai Kishore,2,1,0
+M022,2,3,6,Arshdeep Singh,Arshdeep Singh,1,0,0
+M152,1,4,5,Rahul Tripathi,Tim David,1,0,0
+M021,2,3,5,Yuzvendra Chahal,Mayank Yadav,1,0,0
+M217,1,6,2,Suryakumar Yadav,Jason Holder,1,0,0
+M109,1,17,6,Avesh Khan,R Ashwin,1,0,0
+M015,1,17,4,Sanju Samson,Rachin Ravindra,1,0,0
+M192,2,6,3,KL Rahul,Marco Jansen,4,0,1
+M016,1,3,6,Shivam Dube,Liam Livingstone,6,0,0
+M204,2,12,5,Ravindra Jadeja,Kane Williamson,2,0,0
+M032,2,11,4,Travis Head,Rachin Ravindra,0,0,0
+M144,1,5,3,R Ashwin,Tim David,1,0,0
+M039,1,10,6,Marcus Stoinis,Devdutt Padikkal,2,0,1
+M164,1,15,2,Prasidh Krishna,Mohsin Khan,4,0,0
+M047,2,8,4,Naveen ul Haq,Mark Wood,0,0,0
+M246,2,7,4,Marcus Stoinis,Quinton de Kock,0,0,0
+M249,1,11,4,Faf du Plessis,Nehal Wadhera,1,0,0
+M024,1,16,1,Rinku Singh,Ryan Rickelton,1,0,0
+M072,1,3,2,T Natarajan,Mark Wood,4,1,0
+M052,2,2,6,Jake Fraser-McGurk,Glenn Phillips,2,1,0
+M049,2,7,5,Jake Fraser-McGurk,Krunal Pandya,1,0,0
+M223,1,9,6,Shivam Dube,Mitchell Marsh,1,0,1
+M038,1,1,4,Travis Head,Lockie Ferguson,0,0,0
+M197,1,16,5,Avesh Khan,Will Jacks,4,0,0
+M151,1,13,1,Axar Patel,Ryan Rickelton,1,0,0
+M068,1,7,2,Ruturaj Gaikwad,Kagiso Rabada,1,0,1
+M093,1,12,1,Ishan Kishan,Liam Livingstone,1,1,0
+M026,2,8,1,Abhishek Sharma,Matheesha Pathirana,1,0,0
+M079,2,8,6,Washington Sundar,Kagiso Rabada,1,0,0
+M052,1,11,2,Daryl Mitchell,Ravindra Jadeja,0,0,0
+M155,2,15,4,Dhruv Jurel,Axar Patel,2,1,0
+M157,2,4,5,Travis Head,Kagiso Rabada,2,0,1
+M132,1,10,1,Rinku Singh,Aiden Markram,1,0,0
+M093,2,13,1,Quinton de Kock,Nehal Wadhera,3,0,0
+M102,1,16,1,Kagiso Rabada,Adam Zampa,1,0,0
+M057,2,1,3,Heinrich Klaasen,Ramandeep Singh,1,0,0
+M193,2,7,4,Matheesha Pathirana,Anrich Nortje,2,0,0
+M227,1,17,4,Tilak Varma,Shimron Hetmyer,6,0,1
+M223,2,16,4,Kuldeep Yadav,Mohammed Siraj,1,0,0
+M215,1,4,4,Shivam Dube,Rashid Khan,1,0,0
+M025,2,3,3,Glenn Maxwell,Yuzvendra Chahal,0,0,0
+M017,1,14,2,Yuzvendra Chahal,Will Jacks,1,0,0
+M176,2,1,3,Kuldeep Yadav,Tim David,0,0,0
+M003,2,15,6,Heinrich Klaasen,Shimron Hetmyer,0,0,0
+M019,1,6,2,Naveen ul Haq,Marco Jansen,1,0,0
+M100,2,3,4,Nitish Kumar Reddy,Khaleel Ahmed,4,0,0
+M248,2,16,3,Naveen ul Haq,Matheesha Pathirana,1,0,0
+M149,2,18,3,Matheesha Pathirana,Axar Patel,0,0,0
+M145,1,14,2,Dhruv Jurel,Mitchell Marsh,0,0,0
+M129,2,8,2,Mohammed Siraj,Adam Zampa,1,0,0
+M227,2,16,3,Arshdeep Singh,Chris Jordan,1,1,0
+M115,1,15,2,Phil Salt,Khaleel Ahmed,1,0,0
+M066,1,4,6,Mohammed Shami,Tushar Deshpande,1,0,0
+M151,2,20,3,Rahmanullah Gurbaz,Shahbaz Ahmed,0,0,0
+M246,2,18,2,Glenn Maxwell,Venkatesh Iyer,0,0,0
+M202,2,16,1,Shubman Gill,Mohammed Shami,3,0,0
+M219,1,20,6,Heinrich Klaasen,Matheesha Pathirana,1,0,0
+M134,1,13,4,Trent Boult,Trent Boult,1,0,0
+M035,1,7,4,Ruturaj Gaikwad,Wanindu Hasaranga,0,0,0
+M104,1,3,4,Mayank Yadav,Jake Fraser-McGurk,1,0,0
+M081,2,4,2,Mukesh Kumar,Lockie Ferguson,4,2,0
+M074,1,7,2,Ishan Kishan,Kagiso Rabada,1,0,0
+M172,1,20,3,T Natarajan,Mitchell Marsh,2,0,0
+M245,1,5,1,Liam Livingstone,Harpreet Brar,0,1,0
+M131,1,18,3,Devdutt Padikkal,Pat Cummins,1,0,0
+M066,1,13,6,Mohsin Khan,Gerald Coetzee,0,0,0
+M112,1,18,5,Devdutt Padikkal,R Sai Kishore,1,0,0
+M200,1,18,1,Harshal Patel,Josh Hazlewood,2,0,0
+M072,2,20,3,Jos Buttler,Quinton de Kock,1,0,0
+M196,2,19,6,Ruturaj Gaikwad,Mitchell Starc,6,0,0
+M188,1,13,6,Shreyas Iyer,Kane Williamson,1,0,0
+M108,2,6,4,Abhishek Sharma,Naveen ul Haq,1,0,0
+M245,2,16,2,Sam Curran,David Miller,2,1,0
+M011,1,7,5,Ishan Kishan,Will Jacks,1,0,0
+M059,2,1,1,Riyan Parag,Shahbaz Ahmed,1,0,0
+M194,2,14,1,Jasprit Bumrah,Matheesha Pathirana,2,0,0
+M009,1,3,3,Rinku Singh,Shahbaz Ahmed,0,0,0
+M159,1,15,3,Glenn Maxwell,David Miller,1,0,0
+M146,1,6,1,Trent Boult,Mitchell Starc,3,1,0
+M246,2,19,1,Pat Cummins,Jasprit Bumrah,1,0,0
+M020,1,6,2,Virat Kohli,Yash Dayal,2,0,0
+M120,1,13,6,Sam Curran,Adam Zampa,1,0,0
+M241,2,16,4,Yuzvendra Chahal,Arshdeep Singh,2,0,0
+M139,1,12,6,Varun Chakravarthy,Noor Ahmad,4,0,0
+M120,1,13,4,Sam Curran,Adam Zampa,4,0,0
+M109,2,6,6,Yashasvi Jaiswal,Kuldeep Yadav,6,2,0
+M159,1,6,6,Glenn Maxwell,Chris Jordan,0,1,0
+M151,1,5,2,Shubman Gill,Harshal Patel,1,0,0
+M233,2,18,3,Shivam Dube,Nehal Wadhera,2,0,0
+M201,1,2,5,Kuldeep Yadav,Mitchell Marsh,0,1,0
+M235,2,19,3,Jake Fraser-McGurk,Marco Jansen,4,2,0
+M095,2,4,1,Tim David,Khaleel Ahmed,2,0,0
+M053,2,3,2,Harshal Patel,Adam Zampa,1,0,0
+M171,2,7,1,Mitchell Starc,Reece Topley,2,0,0
+M193,2,3,6,Mayank Yadav,Wanindu Hasaranga,1,0,0
+M103,1,16,3,Shivam Dube,R Sai Kishore,0,0,0
+M080,2,16,6,Nitish Kumar Reddy,Shahbaz Ahmed,2,0,1
+M008,2,15,1,Pat Cummins,Lockie Ferguson,1,0,0
+M047,2,2,1,Deepak Chahar,Gerald Coetzee,0,0,0
+M137,2,12,4,Rachin Ravindra,R Ashwin,1,0,0
+M100,1,16,2,Rachin Ravindra,Ashutosh Sharma,1,1,0
+M017,2,5,5,Kuldeep Yadav,Ben Stokes,0,0,0
+M034,2,15,6,Jake Fraser-McGurk,Anrich Nortje,1,0,0
+M045,2,7,1,Lockie Ferguson,Marco Jansen,0,0,0
+M178,2,17,3,Rahul Tripathi,Mohsin Khan,1,0,0
+M244,1,17,5,Tim David,Ramandeep Singh,2,0,0
+M110,2,4,4,Tilak Varma,Harshal Patel,2,0,0
+M231,2,7,6,Ruturaj Gaikwad,Wanindu Hasaranga,2,0,0
+M210,1,3,4,Jake Fraser-McGurk,Yash Dayal,2,0,0
+M045,2,11,2,Tim David,Rajat Patidar,1,1,0
+M029,2,7,2,Jos Buttler,Quinton de Kock,0,0,0
+M020,1,2,1,Nitish Kumar Reddy,Gerald Coetzee,0,0,1
+M140,2,5,2,Riyan Parag,Chris Jordan,4,0,0
+M240,1,18,6,Arshdeep Singh,Rajat Patidar,0,0,0
+M233,1,9,3,Rashid Khan,Jake Fraser-McGurk,0,0,0
+M204,1,17,2,Rohit Sharma,Adam Zampa,1,0,0
+M148,1,11,2,Axar Patel,Nehal Wadhera,0,0,0
+M243,2,1,1,Rinku Singh,Jasprit Bumrah,4,1,1
+M226,1,3,4,Matheesha Pathirana,Ramandeep Singh,0,0,0
+M196,1,13,1,Ruturaj Gaikwad,Rajat Patidar,0,1,0
+M125,2,14,1,Nitish Kumar Reddy,Marco Jansen,2,0,0
+M001,2,13,6,Liam Livingstone,Shahbaz Ahmed,2,0,0
+M008,1,1,5,Quinton de Kock,Jake Fraser-McGurk,2,0,0
+M092,1,6,4,Daryl Mitchell,Mohsin Khan,1,0,0
+M233,1,19,1,Jasprit Bumrah,R Ashwin,3,0,0
+M182,1,13,1,Quinton de Kock,Jason Holder,1,0,0
+M068,2,10,1,Kuldeep Yadav,Glenn Phillips,1,0,0
+M249,1,12,2,Mayank Yadav,Pat Cummins,0,0,1
+M006,2,12,3,Mukesh Kumar,Pat Cummins,1,0,0
+M216,1,10,4,Heinrich Klaasen,Harpreet Brar,0,0,0
+M037,2,8,6,Liam Livingstone,Liam Livingstone,4,1,0
+M106,1,15,1,Rahmanullah Gurbaz,Lockie Ferguson,2,1,0
+M228,1,18,4,Daryl Mitchell,Shimron Hetmyer,2,0,0
+M099,2,19,3,Phil Salt,Chris Jordan,0,0,0
+M031,2,6,3,Virat Kohli,Mohsin Khan,0,0,0
+M218,1,8,6,Quinton de Kock,Aiden Markram,0,0,0
+M111,2,16,6,Shivam Dube,Ramandeep Singh,4,0,0
+M223,2,12,5,Gerald Coetzee,Angkrish Raghuvanshi,0,0,0
+M163,2,6,4,Mukesh Kumar,Mohammed Siraj,1,0,0
+M182,1,19,1,Mukesh Kumar,Nehal Wadhera,0,0,0
+M213,1,5,3,Deepak Chahar,Kuldeep Yadav,0,2,0
+M047,1,2,2,Abhishek Sharma,Ryan Rickelton,1,0,0
+M181,1,5,2,Liam Livingstone,Reece Topley,2,0,0
+M246,1,16,1,Ishan Kishan,Wanindu Hasaranga,4,1,0
+M018,2,20,4,Mohammed Siraj,Kyle Mayers,4,0,0
+M102,1,7,2,Avesh Khan,Ashutosh Sharma,1,1,0
+M115,2,17,4,Prasidh Krishna,Aiden Markram,1,0,0
+M216,1,15,3,Kagiso Rabada,Ashutosh Sharma,1,0,0
+M019,2,9,2,Naveen ul Haq,Glenn Phillips,4,0,0
+M067,1,17,1,Mayank Yadav,Gerald Coetzee,0,0,0
+M201,2,6,1,Rinku Singh,Kane Williamson,1,0,0
+M209,2,11,5,Lockie Ferguson,Krunal Pandya,4,0,0
+M015,1,9,6,Mohammed Shami,Kane Williamson,0,0,0
+M196,2,6,5,Ishan Kishan,Adam Zampa,1,0,0
+M057,1,4,1,KL Rahul,Shahbaz Ahmed,1,0,0
+M147,1,10,4,Yashasvi Jaiswal,Aiden Markram,2,0,1
+M208,2,9,5,Marcus Stoinis,Adam Zampa,0,0,0
+M201,2,5,1,Rachin Ravindra,Yash Dayal,0,0,1
+M177,2,5,6,Jake Fraser-McGurk,Mohammed Shami,0,1,1
+M125,1,1,4,Jos Buttler,Axar Patel,4,0,0
+M236,1,12,4,Noor Ahmad,Arshdeep Singh,1,0,0
+M181,2,13,3,Deepak Chahar,Jason Holder,0,0,0
+M145,2,15,6,Suryakumar Yadav,Will Jacks,1,0,1
+M070,1,10,3,Ishan Kishan,Mitchell Marsh,3,0,0
+M210,2,15,3,Matheesha Pathirana,Anrich Nortje,0,0,0
+M123,2,12,1,Yuzvendra Chahal,Rachin Ravindra,0,0,0
+M143,2,12,4,Sanju Samson,Jasprit Bumrah,1,0,0
+M028,1,8,5,Gerald Coetzee,Mitchell Marsh,2,0,0
+M080,2,7,6,Prasidh Krishna,Rashid Khan,1,0,0
+M193,2,6,3,Shreyas Iyer,Mitchell Marsh,0,0,0
+M198,2,5,2,Shreyas Iyer,Pat Cummins,1,0,0
+M084,2,9,6,Shreyas Iyer,Ayush Badoni,4,2,0
+M229,2,7,2,Nitish Kumar Reddy,Jasprit Bumrah,0,0,0
+M021,1,15,2,Phil Salt,Ayush Badoni,0,2,0
+M113,1,6,5,Nicholas Pooran,Gerald Coetzee,1,0,0
+M160,1,12,6,Ishan Kishan,Chris Jordan,2,0,0
+M203,1,10,5,Jake Fraser-McGurk,Matheesha Pathirana,1,0,0
+M092,1,11,1,Jasprit Bumrah,Angkrish Raghuvanshi,2,0,0
+M066,1,4,6,Rahmanullah Gurbaz,Josh Hazlewood,0,1,0
+M102,2,13,1,Glenn Maxwell,Will Jacks,2,0,0
+M033,1,5,6,Kuldeep Yadav,Venkatesh Iyer,2,1,0
+M140,2,7,5,Dhruv Jurel,Trent Boult,1,0,0
+M189,1,19,1,Jasprit Bumrah,Jason Holder,0,0,0
+M150,2,16,4,Noor Ahmad,Rahmanullah Gurbaz,0,0,0
+M094,2,8,4,Rashid Khan,Arshdeep Singh,0,0,0
+M075,2,20,5,Shreyas Iyer,Quinton de Kock,0,0,0
+M210,2,15,5,Bhuvneshwar Kumar,Pat Cummins,1,0,0
+M002,1,12,4,Trent Boult,Mohammed Shami,1,0,0
+M148,2,14,3,Yashasvi Jaiswal,Jasprit Bumrah,1,0,1
+M123,2,10,4,Noor Ahmad,Kyle Mayers,1,0,0
+M127,2,18,1,Bhuvneshwar Kumar,Liam Livingstone,1,0,0
+M056,2,14,6,Mukesh Kumar,Yuzvendra Chahal,0,0,0
+M086,2,5,4,Rinku Singh,Josh Hazlewood,0,1,0
+M209,2,17,3,Washington Sundar,Lockie Ferguson,0,0,0
+M064,1,7,3,Arshdeep Singh,Shahbaz Ahmed,0,0,0
+M120,2,12,3,Tilak Varma,Rachin Ravindra,1,0,0
+M204,2,9,5,Prasidh Krishna,Harshal Patel,3,1,0
+M029,1,3,4,Arshdeep Singh,Kane Williamson,0,0,1
+M247,1,4,4,Dhruv Jurel,Mitchell Marsh,4,0,1
+M222,1,5,3,R Ashwin,Mitchell Starc,0,1,0
+M160,2,16,2,Bhuvneshwar Kumar,Mohsin Khan,0,2,0
+M133,1,19,3,Ravindra Jadeja,Liam Livingstone,2,0,0
+M077,1,5,5,Rahmanullah Gurbaz,Tim David,1,0,0
+M238,2,3,6,David Miller,Rachin Ravindra,4,0,0
+M025,1,10,2,Travis Head,Jake Fraser-McGurk,1,0,0
+M009,1,14,1,Tilak Varma,Rachin Ravindra,0,0,0
+M240,1,20,3,Yashasvi Jaiswal,Marco Jansen,1,0,0
+M220,2,13,4,Washington Sundar,Mohammed Shami,1,0,0
+M004,1,12,4,Mitchell Starc,Josh Hazlewood,4,1,0
+M166,1,7,3,Harshal Patel,Kagiso Rabada,4,0,0
+M187,1,3,1,Harshal Patel,Naveen ul Haq,1,0,0
+M062,2,16,4,Abhishek Sharma,Chris Jordan,0,0,1
+M008,1,7,1,Rahmanullah Gurbaz,Harpreet Brar,4,0,0
+M057,2,18,2,Kagiso Rabada,Axar Patel,4,0,0
+M124,2,1,6,Heinrich Klaasen,Liam Livingstone,4,0,0
+M095,1,12,6,Shubman Gill,Mayank Yadav,1,1,0
+M160,1,19,2,Naveen ul Haq,Will Jacks,1,0,1
+M183,1,17,2,Matheesha Pathirana,Adam Zampa,4,1,0
+M227,2,9,6,Rinku Singh,Pat Cummins,1,0,0
+M196,1,11,1,Mohammed Siraj,Gerald Coetzee,0,0,1
+M006,1,16,2,Kagiso Rabada,Kagiso Rabada,0,0,0
+M108,1,10,4,Ruturaj Gaikwad,Wanindu Hasaranga,0,0,0
+M028,1,8,5,Shubman Gill,Yash Dayal,4,0,0
+M130,1,15,2,Marco Jansen,Rajat Patidar,1,0,0
+M168,1,16,2,Ryan Rickelton,Mohammed Siraj,1,0,0
+M236,1,18,3,Faf du Plessis,Mohsin Khan,1,0,0
+M017,2,4,3,Noor Ahmad,Ashutosh Sharma,1,0,0
+M226,2,8,1,Lockie Ferguson,Yuzvendra Chahal,1,0,0
+M160,2,5,2,Rinku Singh,Venkatesh Iyer,1,0,0
+M115,2,8,3,Travis Head,Marco Jansen,0,0,0
+M187,1,3,4,Mitchell Starc,Venkatesh Iyer,4,0,0
+M024,2,16,4,Devdutt Padikkal,Ramandeep Singh,0,0,0
+M211,2,20,1,Mukesh Kumar,Wanindu Hasaranga,0,0,0
+M075,2,10,4,Washington Sundar,R Ashwin,0,0,0
+M195,2,17,1,Rinku Singh,David Miller,1,0,0
+M169,1,20,2,Naveen ul Haq,Ashutosh Sharma,3,0,1
+M079,2,20,3,Rashid Khan,Pat Cummins,1,0,0
+M214,2,9,1,Noor Ahmad,R Sai Kishore,1,1,0
+M241,1,6,2,Shubman Gill,Mohammed Shami,0,0,0
+M125,1,20,5,Gerald Coetzee,Mohsin Khan,1,0,0
+M184,2,1,4,Rahmanullah Gurbaz,Matheesha Pathirana,0,0,0
+M114,1,18,6,Mitchell Starc,Varun Chakravarthy,2,0,0
+M129,2,19,5,Faf du Plessis,Rajat Patidar,6,0,0
+M134,2,17,2,Rashid Khan,Reece Topley,4,0,0
+M047,2,13,6,Riyan Parag,Marco Jansen,4,0,0
+M169,2,7,2,Dhruv Jurel,Quinton de Kock,0,0,0
+M117,2,2,1,Arshdeep Singh,Jasprit Bumrah,2,0,0
+M088,1,15,3,Tilak Varma,Kuldeep Yadav,0,0,0
+M097,1,15,1,Sanju Samson,Mohammed Shami,1,0,0
+M013,2,13,4,Jos Buttler,Venkatesh Iyer,0,1,0
+M144,2,20,1,Rahul Tripathi,Pat Cummins,1,0,0
+M031,1,17,2,Kagiso Rabada,Ashutosh Sharma,1,0,0
+M206,2,18,5,Yashasvi Jaiswal,Mitchell Marsh,4,0,0
+M192,2,9,4,Matheesha Pathirana,Axar Patel,0,0,0
+M067,2,16,4,Rahul Tripathi,Pat Cummins,2,0,0
+M152,2,8,1,Abhishek Sharma,Ramandeep Singh,2,0,0
+M058,2,6,6,Jasprit Bumrah,Ravindra Jadeja,2,0,0
+M203,1,3,2,Noor Ahmad,Ryan Rickelton,1,0,0
+M124,1,8,5,Jasprit Bumrah,Harshal Patel,1,1,0
+M007,2,4,1,Gerald Coetzee,Rahmanullah Gurbaz,1,1,0
+M181,1,6,2,T Natarajan,Anrich Nortje,1,0,0
+M176,1,13,2,Rashid Khan,Jake Fraser-McGurk,1,0,0
+M178,2,15,6,Mukesh Kumar,Angkrish Raghuvanshi,4,0,0
+M082,1,20,5,Rohit Sharma,Mohsin Khan,4,0,0
+M130,1,14,3,Yashasvi Jaiswal,Reece Topley,1,0,0
+M247,2,18,4,Rinku Singh,Jason Holder,0,0,0
+M208,2,15,3,Mayank Yadav,Rajat Patidar,1,0,0
+M231,2,14,5,Varun Chakravarthy,Ryan Rickelton,1,0,0
+M173,1,15,1,T Natarajan,Tim David,1,0,0
+M126,1,3,6,Sanju Samson,Mitchell Starc,1,0,0
+M046,2,4,4,David Miller,Pat Cummins,4,1,0
+M165,2,7,5,Washington Sundar,Tim David,1,0,0
+M213,1,5,5,Travis Head,Naveen ul Haq,0,2,0
+M167,1,16,2,Bhuvneshwar Kumar,Arshdeep Singh,0,0,0
+M068,1,13,1,Pat Cummins,Harshal Patel,0,0,0
+M224,2,15,4,Mukesh Kumar,Arshdeep Singh,6,0,0
+M205,1,2,2,Rahul Tripathi,Axar Patel,0,0,0
+M114,1,3,1,Naveen ul Haq,Harshal Patel,1,1,0
+M153,2,10,1,Naveen ul Haq,Mohammed Siraj,0,0,0
+M238,1,1,5,Ryan Rickelton,Yuzvendra Chahal,3,2,0
+M200,2,15,4,Deepak Chahar,Will Jacks,1,0,0
+M155,1,3,3,KL Rahul,Gerald Coetzee,0,0,0
+M243,2,7,6,Trent Boult,R Sai Kishore,0,0,0
+M168,1,11,3,Rahmanullah Gurbaz,Josh Hazlewood,1,0,0
+M012,1,9,5,Jake Fraser-McGurk,Liam Livingstone,2,0,1
+M248,1,14,2,Mohsin Khan,Harpreet Brar,1,0,0
+M152,1,20,2,Virat Kohli,Varun Chakravarthy,1,1,0
+M016,1,1,2,Kagiso Rabada,Ben Stokes,1,0,0
+M166,1,1,5,Noor Ahmad,Mitchell Marsh,0,0,0
+M220,2,1,4,Washington Sundar,Rashid Khan,4,0,0
+M185,2,3,6,Rashid Khan,Ashutosh Sharma,1,0,0
+M069,2,14,3,Jos Buttler,Mohammed Siraj,2,0,0
+M159,2,8,1,Yashasvi Jaiswal,Arshdeep Singh,1,1,0
+M185,1,3,1,Mohammed Shami,Wanindu Hasaranga,1,0,0
+M156,2,13,6,Mohammed Shami,Jason Holder,4,0,0
+M171,1,19,4,Dhruv Jurel,Abdul Samad,4,0,0
+M099,2,18,6,Shivam Dube,Adam Zampa,1,0,0
+M200,2,11,1,Rahul Tripathi,Mohsin Khan,4,0,0
+M240,1,18,2,R Ashwin,Mohsin Khan,0,0,0
+M148,1,17,6,Ben Stokes,Arshdeep Singh,0,0,0
+M236,2,3,5,Mukesh Kumar,R Ashwin,0,0,0
+M114,1,17,4,Shreyas Iyer,Glenn Phillips,1,0,0
+M155,2,2,5,Lockie Ferguson,Kane Williamson,1,0,0
+M053,2,1,2,Mukesh Kumar,Mohsin Khan,1,0,1
+M137,1,9,6,Mitchell Starc,R Sai Kishore,4,0,0
+M206,1,7,1,Ravindra Jadeja,Ashutosh Sharma,2,0,0
+M156,2,20,4,Deepak Chahar,R Sai Kishore,1,0,0
+M020,2,1,1,Devdutt Padikkal,Rachin Ravindra,3,1,0
+M041,1,10,4,Lockie Ferguson,Mark Wood,1,0,0
+M104,1,15,5,Nicholas Pooran,Kyle Mayers,0,0,0
+M052,1,13,1,Deepak Chahar,Arshdeep Singh,1,0,0
+M086,1,20,4,Rinku Singh,Naveen ul Haq,1,0,0
+M196,1,8,3,R Ashwin,Jason Holder,0,0,0
+M098,1,3,1,Nicholas Pooran,Ravindra Jadeja,0,0,0
+M018,1,16,4,Dhruv Jurel,Marco Jansen,0,0,0
+M090,2,18,3,Yashasvi Jaiswal,Marco Jansen,2,0,0
+M114,1,15,5,Tilak Varma,Wanindu Hasaranga,1,0,0
+M031,2,2,1,Jasprit Bumrah,Pat Cummins,2,0,0
+M032,1,6,2,Matheesha Pathirana,Rachin Ravindra,1,0,0
+M012,2,17,6,Tilak Varma,Nehal Wadhera,0,1,0
+M044,2,15,4,Shubman Gill,Tim David,4,0,0
+M198,2,2,3,Jos Buttler,Rahmanullah Gurbaz,2,0,0
+M024,2,2,1,Matheesha Pathirana,Gerald Coetzee,1,1,0
+M117,2,9,2,Heinrich Klaasen,Mohsin Khan,0,0,0
+M011,2,15,4,Yuzvendra Chahal,Rachin Ravindra,0,0,0
+M230,1,20,2,Daryl Mitchell,Harpreet Brar,1,0,0
+M015,2,10,3,Rinku Singh,Yash Dayal,1,0,0
+M045,1,6,4,Mohammed Siraj,Josh Hazlewood,1,0,0
+M053,1,2,2,Avesh Khan,Marco Jansen,0,0,1
+M065,1,18,2,Shivam Dube,Noor Ahmad,1,0,0
+M173,2,14,6,Gerald Coetzee,Noor Ahmad,1,0,0
+M127,2,13,1,Arshdeep Singh,Axar Patel,2,0,0
+M201,2,4,3,Phil Salt,Adam Zampa,1,0,0
+M145,2,12,3,Rahmanullah Gurbaz,Jason Holder,1,1,0
+M206,1,10,4,Lockie Ferguson,Axar Patel,2,0,0
+M198,1,14,2,Sai Sudharsan,Nehal Wadhera,1,0,1
+M049,2,20,2,Rohit Sharma,Yash Dayal,4,0,0
+M070,2,14,6,David Miller,Mark Wood,2,0,0
+M204,1,13,4,Avesh Khan,Kyle Mayers,0,1,0
+M223,2,1,3,Nicholas Pooran,Gerald Coetzee,1,0,0
+M023,1,2,2,Matheesha Pathirana,Reece Topley,1,0,0
+M170,1,10,5,Mohsin Khan,Reece Topley,0,0,0
+M140,2,6,6,Yuzvendra Chahal,Daryl Mitchell,0,0,0
+M047,1,10,3,Pat Cummins,R Sai Kishore,3,0,0
+M009,1,15,5,Daryl Mitchell,Yuzvendra Chahal,0,2,0
+M018,1,15,4,Prasidh Krishna,Tim David,0,1,0
+M162,2,20,4,Marcus Stoinis,Ben Stokes,1,0,0
+M106,2,15,2,Ruturaj Gaikwad,Ravindra Jadeja,0,0,0
+M030,1,14,4,Riyan Parag,Jake Fraser-McGurk,4,0,0
+M061,2,9,1,Mohammed Siraj,Krunal Pandya,6,0,0
+M134,1,19,2,Kuldeep Yadav,Aiden Markram,0,1,0
+M077,2,17,6,Mukesh Kumar,Wanindu Hasaranga,0,0,0
+M241,2,12,1,Travis Head,Naveen ul Haq,0,2,0
+M233,1,10,4,Devdutt Padikkal,Marco Jansen,6,0,0
+M026,2,3,3,Shivam Dube,Harpreet Brar,3,0,0
+M134,2,2,1,Daryl Mitchell,Kagiso Rabada,1,1,0
+M038,2,15,4,Pat Cummins,Will Jacks,1,0,0
+M005,2,10,3,Mohammed Shami,Noor Ahmad,1,0,0
+M114,1,17,1,Suryakumar Yadav,Ryan Rickelton,6,1,0
+M246,1,11,3,Shreyas Iyer,Adam Zampa,4,0,0
+M214,1,2,6,Tim David,Kane Williamson,2,0,0
+M110,1,1,3,Jasprit Bumrah,Kyle Mayers,1,0,0
+M023,1,4,3,Rahmanullah Gurbaz,R Sai Kishore,1,0,0
+M126,1,16,3,Ruturaj Gaikwad,Kagiso Rabada,4,0,0
+M037,2,9,2,Mohammed Siraj,Jake Fraser-McGurk,0,0,0
+M119,1,17,3,Devdutt Padikkal,Kyle Mayers,4,0,0
+M088,2,6,3,Rashid Khan,Mitchell Starc,4,0,0
+M200,1,12,3,Quinton de Kock,Chris Jordan,1,0,0
+M060,1,12,2,Marco Jansen,Mohammed Shami,3,0,0
+M134,1,18,4,Mitchell Starc,Abdul Samad,1,1,0
+M177,2,10,1,Nicholas Pooran,Mitchell Starc,4,0,0
+M044,1,12,4,Sam Curran,Nehal Wadhera,0,0,0
+M141,1,13,1,Daryl Mitchell,Adam Zampa,2,2,0
+M060,2,20,1,Rahul Tripathi,Will Jacks,1,0,0
+M024,2,20,2,Axar Patel,Jake Fraser-McGurk,2,0,0
+M033,2,14,5,Harshal Patel,Mohsin Khan,0,0,0
+M137,2,2,3,Rahmanullah Gurbaz,Mitchell Marsh,6,0,0
+M043,1,18,5,Pat Cummins,Adam Zampa,1,0,0
+M116,2,10,2,Ryan Rickelton,Adam Zampa,1,1,0
+M209,2,13,3,Nitish Kumar Reddy,Anrich Nortje,3,0,0
+M211,2,20,6,Jasprit Bumrah,Rahmanullah Gurbaz,2,0,1
+M249,1,9,4,Mayank Yadav,Rajat Patidar,3,0,0
+M051,1,15,6,Mohammed Siraj,Liam Livingstone,1,0,0
+M226,2,9,2,Lockie Ferguson,Gerald Coetzee,1,0,0
+M087,1,11,2,Bhuvneshwar Kumar,Ashutosh Sharma,4,2,0
+M250,2,12,5,Marcus Stoinis,Kuldeep Yadav,1,0,0
+M233,1,12,3,Rashid Khan,Tushar Deshpande,1,0,0
+M205,2,4,5,Faf du Plessis,Rashid Khan,6,0,0
+M206,2,12,3,Bhuvneshwar Kumar,Adam Zampa,0,0,0
+M073,1,16,2,Mohammed Shami,R Sai Kishore,0,0,1
+M225,1,19,6,Lockie Ferguson,Glenn Phillips,0,0,0
+M153,2,17,5,Sai Sudharsan,Mitchell Starc,4,1,0
+M243,1,2,3,Dhruv Jurel,R Ashwin,0,0,0
+M172,1,17,1,Sam Curran,Devdutt Padikkal,1,0,0
+M005,1,16,3,Rachin Ravindra,Nehal Wadhera,1,0,0
+M132,2,9,1,Washington Sundar,Yash Dayal,1,0,0
+M083,1,8,1,David Miller,Ramandeep Singh,1,0,0
+M136,2,14,1,Shubman Gill,Shimron Hetmyer,1,0,0
+M106,2,12,3,Gerald Coetzee,Axar Patel,1,0,0
+M232,1,6,3,Prasidh Krishna,Nehal Wadhera,1,0,0
+M135,2,4,4,Suryakumar Yadav,Pat Cummins,1,0,0
+M011,2,17,4,R Ashwin,Rachin Ravindra,1,0,0
+M097,1,15,3,Marco Jansen,Mitchell Marsh,2,0,0
+M057,2,1,4,Noor Ahmad,Jake Fraser-McGurk,1,0,0
+M208,2,7,6,Suryakumar Yadav,Rashid Khan,0,0,0
+M174,1,8,1,Ryan Rickelton,Mark Wood,2,0,1
+M021,1,11,4,Gerald Coetzee,Mohammed Shami,0,0,0
+M180,2,4,4,Mukesh Kumar,Jake Fraser-McGurk,4,0,0
+M102,1,18,2,Mitchell Starc,Tim David,2,0,0
+M114,1,14,3,Rinku Singh,Jason Holder,0,0,0
+M035,2,10,6,Arshdeep Singh,Wanindu Hasaranga,1,0,0
+M015,2,19,1,Arshdeep Singh,Angkrish Raghuvanshi,0,0,0
+M177,1,8,5,Ben Stokes,Arshdeep Singh,6,0,0
+M236,1,18,1,Harshal Patel,Glenn Phillips,2,0,0
+M014,1,13,1,Varun Chakravarthy,Naveen ul Haq,4,0,0
+M107,1,18,2,Harshal Patel,Mohammed Shami,2,0,0
+M039,1,18,5,Gerald Coetzee,Ramandeep Singh,2,0,0
+M165,1,13,3,Nitish Kumar Reddy,Anrich Nortje,1,0,0
+M234,2,9,2,Arshdeep Singh,Lockie Ferguson,3,0,0
+M020,1,3,6,Faf du Plessis,Tushar Deshpande,2,0,0
+M129,2,17,6,R Ashwin,Kuldeep Yadav,3,0,0
+M108,1,6,2,Rinku Singh,Khaleel Ahmed,1,0,0
+M136,1,13,1,R Ashwin,Jake Fraser-McGurk,1,2,0
+M230,1,3,2,Gerald Coetzee,Devdutt Padikkal,0,0,0
+M216,2,2,2,Pat Cummins,Anrich Nortje,1,1,0
+M202,2,3,6,Yuzvendra Chahal,Ashutosh Sharma,6,0,0
+M187,1,9,4,Phil Salt,Matheesha Pathirana,1,1,0
+M227,2,13,3,Ravindra Jadeja,Nehal Wadhera,2,0,0
+M080,2,7,3,Varun Chakravarthy,David Miller,1,0,0
+M247,2,18,4,Matheesha Pathirana,Naveen ul Haq,1,0,0
+M237,2,12,2,Axar Patel,Abdul Samad,1,0,0
+M148,1,11,2,Matheesha Pathirana,Ayush Badoni,2,0,1
+M119,2,18,2,Jos Buttler,Wanindu Hasaranga,6,0,0
+M112,2,8,5,Travis Head,Anrich Nortje,1,0,0
+M158,1,20,5,Tilak Varma,R Ashwin,1,0,0
+M098,1,10,4,Nitish Kumar Reddy,Lockie Ferguson,4,0,0
+M043,2,20,3,Quinton de Kock,Yuzvendra Chahal,3,1,0
+M070,1,2,1,Virat Kohli,Devdutt Padikkal,4,0,0
+M012,2,15,3,Nitish Kumar Reddy,Rahmanullah Gurbaz,1,0,0
+M225,1,18,1,Sai Sudharsan,Mitchell Marsh,0,1,0
+M197,1,12,2,Gerald Coetzee,Ramandeep Singh,1,1,0
+M189,1,17,5,Ruturaj Gaikwad,Kyle Mayers,4,0,0
+M019,1,14,4,Sanju Samson,Mohsin Khan,0,0,0
+M176,2,19,2,Suryakumar Yadav,Shahbaz Ahmed,1,0,0
+M184,1,12,1,Ravindra Jadeja,Adam Zampa,2,0,0
+M106,1,3,2,Axar Patel,Varun Chakravarthy,0,0,0
+M216,1,11,5,T Natarajan,Tim David,1,0,0
+M161,1,16,1,Faf du Plessis,Rashid Khan,1,0,0
+M117,1,9,3,Ruturaj Gaikwad,Wanindu Hasaranga,3,0,0
+M224,2,15,2,Mitchell Starc,Jake Fraser-McGurk,0,0,0
+M058,2,5,2,Ryan Rickelton,Venkatesh Iyer,1,0,0
+M174,1,2,3,KL Rahul,Abdul Samad,2,0,0
+M207,2,19,5,Ruturaj Gaikwad,Tim David,3,1,0
+M027,1,3,2,T Natarajan,Ben Stokes,0,0,0
+M081,2,19,6,Rahul Tripathi,Shimron Hetmyer,3,0,0
+M042,1,12,3,T Natarajan,R Sai Kishore,0,0,0
+M081,2,7,2,Liam Livingstone,Will Jacks,4,0,1
+M025,1,10,1,Noor Ahmad,Krunal Pandya,1,0,1
+M207,1,14,3,Suryakumar Yadav,Tim David,0,0,0
+M159,1,4,6,Trent Boult,Gerald Coetzee,4,0,0
+M078,2,5,2,Jake Fraser-McGurk,Jasprit Bumrah,1,0,0
+M036,1,16,5,Prasidh Krishna,Jake Fraser-McGurk,4,0,0
+M168,1,15,4,Mohammed Siraj,Rahmanullah Gurbaz,0,0,0
+M013,2,16,3,Rinku Singh,Kyle Mayers,0,0,0
+M168,2,9,4,Quinton de Kock,Mitchell Starc,4,0,0
+M027,2,1,3,Trent Boult,Yash Dayal,1,1,0
+M054,1,11,2,Jos Buttler,Rajat Patidar,0,0,0
+M123,1,19,4,David Miller,Liam Livingstone,0,0,0
+M133,1,4,1,Ben Stokes,Matheesha Pathirana,0,0,0
+M035,2,14,2,Riyan Parag,Mitchell Marsh,4,0,0
+M158,1,16,2,Jasprit Bumrah,Axar Patel,2,0,0
+M077,2,5,3,Jake Fraser-McGurk,Marco Jansen,1,0,1
+M008,2,13,5,Ben Stokes,Varun Chakravarthy,4,0,0
+M236,2,6,6,Liam Livingstone,Shahbaz Ahmed,1,1,0
+M013,1,20,4,Matheesha Pathirana,Tushar Deshpande,4,0,1
+M093,2,8,6,Phil Salt,Rashid Khan,3,0,0
+M079,2,1,1,Naveen ul Haq,Mitchell Starc,1,0,0
+M108,2,2,5,Mitchell Starc,Devdutt Padikkal,4,0,0
+M122,2,5,5,Yashasvi Jaiswal,Angkrish Raghuvanshi,2,0,0
+M029,1,8,2,Mohsin Khan,Reece Topley,2,2,0
+M174,1,9,2,Ruturaj Gaikwad,David Miller,0,1,0
+M237,2,9,2,Shreyas Iyer,Tim David,2,0,0
+M043,2,2,6,Riyan Parag,Harshal Patel,0,0,0
+M185,2,19,4,Jake Fraser-McGurk,Mohsin Khan,3,0,0
+M229,2,6,1,Mohammed Shami,Pat Cummins,2,0,0
+M041,2,13,6,Mitchell Starc,Rajat Patidar,2,0,0
+M132,2,8,1,Tim David,Arshdeep Singh,3,0,0
+M211,1,5,3,Quinton de Kock,Daryl Mitchell,0,0,0
+M210,2,1,4,Rachin Ravindra,Trent Boult,4,0,0
+M018,2,14,2,Axar Patel,Ramandeep Singh,2,0,0
+M069,1,8,2,Shreyas Iyer,Mohsin Khan,1,0,0
+M114,1,20,3,Shreyas Iyer,Rachin Ravindra,0,0,0
+M081,2,16,4,Faf du Plessis,Matheesha Pathirana,0,0,0
+M036,1,8,6,Kuldeep Yadav,Josh Hazlewood,4,0,0
+M234,2,13,1,Tim David,Ramandeep Singh,1,0,0
+M111,1,1,3,Tim David,Ravindra Jadeja,0,0,0
+M064,2,9,2,Ryan Rickelton,Varun Chakravarthy,0,0,0
+M067,1,11,3,Riyan Parag,Nehal Wadhera,1,0,0
+M126,1,13,1,Kagiso Rabada,Varun Chakravarthy,0,0,0
+M053,1,11,5,Mohammed Shami,R Ashwin,0,0,0
+M134,1,17,2,Sai Sudharsan,Devdutt Padikkal,1,0,0
+M189,1,3,1,Bhuvneshwar Kumar,Trent Boult,2,0,0
+M051,1,7,2,Mohsin Khan,Rashid Khan,1,0,0
+M055,1,20,6,Harshal Patel,Devdutt Padikkal,1,0,0
+M016,1,20,2,Nitish Kumar Reddy,Noor Ahmad,1,0,0
+M052,2,13,4,Matheesha Pathirana,Rachin Ravindra,1,0,0
+M040,2,10,4,Riyan Parag,Yash Dayal,0,0,0
+M121,2,2,3,Ravindra Jadeja,Adam Zampa,6,1,0
+M028,1,17,5,Noor Ahmad,Reece Topley,1,0,0
+M046,2,9,4,Suryakumar Yadav,Naveen ul Haq,0,0,0
+M037,2,2,3,Rashid Khan,Mayank Yadav,0,2,0
+M026,2,3,1,T Natarajan,Kane Williamson,0,0,0
+M014,2,18,4,Shreyas Iyer,Mitchell Starc,6,0,0
+M164,1,1,1,Avesh Khan,Abdul Samad,1,0,0
+M229,2,1,5,Dhruv Jurel,Venkatesh Iyer,0,0,0
+M147,1,11,6,Mohammed Shami,Anrich Nortje,2,0,0
+M156,1,18,3,Nitish Kumar Reddy,Angkrish Raghuvanshi,4,0,0
+M115,2,4,2,Yuzvendra Chahal,Yash Dayal,3,0,0
+M127,2,17,4,Lockie Ferguson,Angkrish Raghuvanshi,1,0,0
+M160,1,3,1,Liam Livingstone,Glenn Phillips,1,0,0
+M041,2,14,5,Riyan Parag,Mitchell Marsh,2,0,0
+M132,2,4,2,Trent Boult,Ramandeep Singh,2,0,0
+M075,1,2,2,Arshdeep Singh,Harshal Patel,2,0,0
+M115,2,8,6,Arshdeep Singh,David Miller,1,0,0
+M019,2,9,3,Rachin Ravindra,Harshal Patel,0,0,0
+M196,2,9,6,Rinku Singh,Shahbaz Ahmed,0,0,0
+M175,2,14,2,Marco Jansen,Liam Livingstone,0,0,0
+M204,1,12,4,Rohit Sharma,Mohsin Khan,4,0,0
+M136,1,17,3,Pat Cummins,Chris Jordan,0,0,0
+M238,1,7,5,David Miller,Daryl Mitchell,6,0,0
+M079,1,16,1,Ryan Rickelton,David Miller,1,0,0
+M067,2,11,2,Mohammed Shami,Pat Cummins,1,0,0
+M233,1,19,3,Suryakumar Yadav,David Miller,1,1,0
+M192,2,19,4,Arshdeep Singh,Ravindra Jadeja,1,0,0
+M109,2,1,6,Ishan Kishan,Shahbaz Ahmed,0,0,1
+M032,2,10,5,Riyan Parag,Khaleel Ahmed,1,0,0
+M220,1,17,3,Rahul Tripathi,Matheesha Pathirana,2,0,0
+M244,2,8,4,Jake Fraser-McGurk,Kagiso Rabada,2,0,0
+M005,1,12,3,Ravindra Jadeja,Kane Williamson,1,0,0
+M082,2,7,5,Axar Patel,Rajat Patidar,6,0,0
+M034,2,19,1,Dhruv Jurel,Tim David,2,0,0
+M132,1,11,4,Rashid Khan,Anrich Nortje,3,0,0
+M243,1,12,4,Riyan Parag,Mohammed Siraj,0,0,1
+M023,2,16,3,Virat Kohli,Matheesha Pathirana,4,1,0
+M154,1,13,3,Phil Salt,Anrich Nortje,1,1,0
+M247,1,16,3,Kuldeep Yadav,Mitchell Starc,2,0,0
+M092,1,18,6,Rachin Ravindra,Adam Zampa,2,0,0
+M054,1,6,5,Arshdeep Singh,Shahbaz Ahmed,4,0,0
+M003,2,11,5,Yuzvendra Chahal,Rachin Ravindra,3,0,0
+M009,1,2,6,Travis Head,Rashid Khan,2,1,0
+M099,2,19,3,Trent Boult,Anrich Nortje,1,0,0
+M233,1,1,3,Shreyas Iyer,Liam Livingstone,2,0,0
+M161,2,13,3,Quinton de Kock,Tushar Deshpande,4,0,0
+M026,2,1,1,Mohammed Shami,Harpreet Brar,0,1,0
+M140,1,20,4,Devdutt Padikkal,Shahbaz Ahmed,3,0,0
+M087,2,3,2,Liam Livingstone,Angkrish Raghuvanshi,0,0,0
+M126,1,5,6,Phil Salt,Harshal Patel,2,0,0
+M245,1,18,1,Faf du Plessis,Varun Chakravarthy,0,1,0
+M104,2,3,5,Glenn Maxwell,Liam Livingstone,0,0,0
+M009,2,11,6,Mohammed Shami,Krunal Pandya,3,0,0
+M242,2,3,4,Rinku Singh,Mohammed Siraj,0,0,0
+M093,1,17,5,KL Rahul,Naveen ul Haq,0,0,0
+M029,1,13,6,Sai Sudharsan,Marco Jansen,2,1,1
+M110,2,4,5,Kagiso Rabada,Mohsin Khan,1,1,0
+M092,1,16,2,Avesh Khan,Jason Holder,1,0,0
+M125,1,6,5,Noor Ahmad,Trent Boult,0,0,0
+M027,1,1,6,Sam Curran,Josh Hazlewood,0,0,0
+M128,1,11,3,Ravindra Jadeja,Arshdeep Singh,0,1,0
+M117,2,10,3,Mayank Yadav,Nehal Wadhera,2,0,0
+M210,2,9,4,Avesh Khan,Anrich Nortje,1,0,0
+M135,1,6,2,Mohsin Khan,Chris Jordan,3,1,0
+M126,1,13,2,Virat Kohli,Rajat Patidar,0,0,0
+M148,2,12,3,Prasidh Krishna,Glenn Phillips,0,0,0
+M193,2,17,6,Suryakumar Yadav,Rajat Patidar,1,0,0
+M062,1,8,1,Bhuvneshwar Kumar,Matheesha Pathirana,2,0,0
+M165,1,15,3,Naveen ul Haq,Reece Topley,1,0,0
+M191,1,18,4,Glenn Maxwell,Noor Ahmad,1,0,0
+M248,1,13,4,Mohammed Siraj,Jake Fraser-McGurk,4,0,0
+M083,1,14,1,Riyan Parag,Daryl Mitchell,4,0,0
+M018,2,2,1,Phil Salt,Tushar Deshpande,3,0,0
+M025,1,12,3,Ryan Rickelton,Krunal Pandya,0,0,0
+M039,1,8,1,Riyan Parag,Shimron Hetmyer,1,0,0
+M021,2,3,5,Bhuvneshwar Kumar,Harshal Patel,6,0,0
+M174,2,13,3,Devdutt Padikkal,Naveen ul Haq,0,0,0
+M069,2,13,4,Sai Sudharsan,Mitchell Marsh,1,0,0
+M001,2,16,2,Kuldeep Yadav,Krunal Pandya,1,0,0
+M057,1,12,6,Ryan Rickelton,Noor Ahmad,2,0,0
+M068,1,5,3,Ishan Kishan,Kagiso Rabada,2,0,0
+M001,1,3,3,Liam Livingstone,Tim David,2,1,0
+M177,2,20,1,Faf du Plessis,Marco Jansen,1,0,0
+M205,2,11,1,Shivam Dube,Tushar Deshpande,1,0,0
+M051,1,1,5,Nitish Kumar Reddy,Shimron Hetmyer,1,0,1
+M211,1,4,5,Shubman Gill,Matheesha Pathirana,1,0,0
+M163,1,15,2,Nicholas Pooran,Chris Jordan,4,0,0
+M055,1,6,5,Nicholas Pooran,R Sai Kishore,2,1,0
+M044,2,9,1,Mohammed Siraj,Abdul Samad,6,0,0
+M196,2,16,3,Ishan Kishan,Yuzvendra Chahal,4,0,0
+M011,2,17,5,Travis Head,Will Jacks,0,2,0
+M012,1,7,5,Shreyas Iyer,Tim David,6,0,0
+M046,2,12,1,Mukesh Kumar,Josh Hazlewood,1,0,0
+M218,1,11,3,Kuldeep Yadav,Mitchell Marsh,3,0,0
+M168,1,19,4,Phil Salt,Reece Topley,1,0,0
+M108,1,17,1,Quinton de Kock,Jason Holder,1,0,0
+M190,1,15,3,Trent Boult,Mitchell Marsh,1,0,0
+M156,1,17,3,Riyan Parag,Khaleel Ahmed,2,1,0
+M220,1,15,4,Harshal Patel,Josh Hazlewood,1,0,0
+M005,2,13,3,Ravindra Jadeja,R Sai Kishore,4,0,0
+M167,2,3,1,Abhishek Sharma,Shimron Hetmyer,2,0,0
+M077,2,11,6,Kuldeep Yadav,David Miller,1,0,0
+M071,2,5,5,Noor Ahmad,Chris Jordan,1,0,0
+M228,2,4,1,Pat Cummins,Khaleel Ahmed,1,0,0
+M045,1,19,2,Mitchell Starc,Kyle Mayers,0,0,0
+M148,2,12,3,Ben Stokes,Ashutosh Sharma,0,1,0
+M136,2,6,1,Tilak Varma,Mohammed Siraj,2,0,0
+M186,2,5,6,Marco Jansen,Noor Ahmad,2,0,0
+M093,1,13,5,Riyan Parag,Harpreet Brar,2,0,0
+M135,2,8,2,Varun Chakravarthy,Harshal Patel,0,0,0
+M204,1,18,5,Travis Head,Aiden Markram,0,1,0
+M116,2,15,5,Naveen ul Haq,Noor Ahmad,1,0,0
+M111,2,4,6,Mohammed Siraj,Varun Chakravarthy,4,0,0
+M098,1,14,1,Yuzvendra Chahal,Kagiso Rabada,0,0,0
+M094,2,16,4,Rashid Khan,Varun Chakravarthy,1,0,0
+M213,1,15,1,Washington Sundar,Pat Cummins,4,1,0
+M227,1,18,5,Mitchell Starc,Matheesha Pathirana,2,0,1
+M047,2,9,4,Shivam Dube,Mohsin Khan,0,0,0
+M235,1,3,3,Bhuvneshwar Kumar,Liam Livingstone,1,0,0
+M046,1,20,3,Harshal Patel,Harshal Patel,1,0,0
+M129,1,12,4,Sam Curran,Nehal Wadhera,0,0,0
+M024,2,11,1,Noor Ahmad,Quinton de Kock,1,0,0
+M132,1,15,1,David Miller,Adam Zampa,2,0,1
+M118,2,14,5,Rahul Tripathi,Ramandeep Singh,0,0,0
+M189,2,10,6,Yuzvendra Chahal,Rashid Khan,2,0,0
+M249,1,15,2,Bhuvneshwar Kumar,Ravindra Jadeja,4,0,0
+M218,1,13,5,Marco Jansen,Ramandeep Singh,0,0,0
